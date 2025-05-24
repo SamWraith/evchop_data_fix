@@ -75,7 +75,7 @@ async function makeEvChopCreditPayload(item) {
 
 async function main() {
     // await makeGrpcCallForCheckBalance();
-    const data = await fsp.readFile(__dirname + "/csv/test.csv", "utf8");
+    const data = await fsp.readFile(__dirname + "/csv/splash_credit_data(Sheet1).csv", "utf8");
     const csvRows = data.split('\n').filter(row => row.trim().length > 0);
     const headers = csvRows[0].split(',').map(h => h.trim());
     const payload = csvRows.slice(1).map(row => {
