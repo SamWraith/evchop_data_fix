@@ -1,0 +1,616 @@
+// Protocol Buffers Wallet api
+// Copyright 2020 Baazi Games Pvt. All rights reserved.
+
+syntax = "proto3";
+
+package wallet;
+
+option java_multiple_files = true;
+option java_outer_classname = "PokerWalletService";
+option java_package = "com.baazigames.grpc";
+
+
+/**
+Possible transaction types used in debit API
+ */
+enum DebitTransactionType{
+  // default value, will be used if no specific value is present in debit API
+  UNKNOWN_DEBIT_TRANSACTION_TYPE = 0;
+
+  //RING
+  BUY_IN = 1;
+  FPP_BONUS_DEBIT = 2;
+
+  //TOURNAMENT
+  TOURNAMENT_BUY_IN = 3;
+  ENTRY_FEE = 4;
+  BOUNTY_AMOUNT = 5;
+  BOUNTY_ENTRY_FEE = 6;
+  TOURNAMENT_REBUY = 7;
+  TOURNAMENT_REBUY_ENTRY_FEE = 8;
+  TOURNAMENT_ADDON = 9;
+  TOURNAMENT_ADDON_ENTRY_FEE = 10;
+
+  //ZOOM
+  ZOOM_BUY_IN = 11;
+  // ALLIN_FOLD
+  ALL_IN_FOLD_BUY_IN=12;
+  OFC_BUY_IN=13;
+
+  TOURNAMENT_PROMO_DEDUCTION = 14;
+}
+
+/**
+Possible transaction types used in credit API
+ */
+enum CreditTransactionType{
+  // default value, will be used if no specific value is present in credit API
+  UNKNOWN_CREDIT_TRANSACTION_TYPE = 0;
+
+  //RING
+  BUY_OUT = 1;
+  REWARD_COINS = 2;
+  REWARD_POINTS = 3;
+  FPP_BONUS_CREDIT = 4;
+
+  //TOURNAMENT
+  REFUND = 5;
+  TOURNAMENT_WIN = 6;
+  BOUNTY_WIN = 7;
+  SATTY_REFUND = 8;
+  //ZOOM
+  ZOOM_BUY_OUT = 9;
+  // ALLIN_FOLD
+  ALLINFOLD_MID_BUY_OUT =10;
+  ALLINFOLD_FINAL_BUY_OUT=11;
+
+  // CHIPS_OFF LOAD RING GAME
+  RING_MID_BUY_OUT=12;
+  //OFC Buyout
+  OFC_BUY_OUT=13;
+  OFC_MIDWAY_BUY_OUT=14;
+  TICKET_REFUND = 15;
+  AIC_USER_REFUND = 16;
+  BUBBLE_PROTECTION_REFUND = 17;
+}
+
+enum NgeTournamentType {
+  NGE_UNKNOWN_TOURNAMENT_TYPE = 0;
+  MTT_FREEZEOUT_FREEROLLS = 1;
+  MTT_FREEZEOUT = 2;
+  MTT_REBUY = 3;
+  MTT_REBUY_AND_ADD_ON = 4;
+  MTT_KNOCK_OUT = 5;
+  MTT_PROGRESSIVE_KNOCK_OUT = 6;
+  MTT_MULTI_DAY = 7;
+  MTT_SATTELITE = 8;
+  SNG_FREEZEOUT = 9;
+  SNG_REBUY = 10;
+  SNG_REBUY_AND_ADD_ON = 11;
+  SNG_KNOCK_OUT = 12;
+  SNG_PROGRESSIVE_KNOCK_OUT = 13;
+  SNG_SATTELITE = 14;
+  MTT_REBUY_FREEROLLS = 15;
+  MTT_FREEZEOUT_WIN_THE_BUTTON = 16;
+  MTT_REBUY_WIN_THE_BUTTON = 17;
+  MTT_MYSTERY_BOUNTY = 18;
+}
+
+
+enum GameType{
+  UNKNOWN_TOURNAMENT_TYPE = 0;
+  SIT_GO = 1;
+  SATELLITES = 2;
+  FREE_ROLLS = 3;
+  SCHEDULED = 4;
+  HEADS_UP = 5;
+  RING = 6;
+  TIMER = 7;
+  RE_ENTRY = 8;
+  MULTI_DAY = 9;
+  NORMAL_BOUNTY = 10;
+  PROGRESSIVE_BOUNTY = 11;
+  BPT = 12;
+  ZOOM = 13;
+  ALLINFOLD =14;
+  OFC=15;
+  NGE_TOURNAMENT = 16;
+}
+
+enum MiniGameType{
+  UNKNOWN_MINI_GAME_TYPE_ID = 0;
+  TEXAS_HOLDEM = 1;
+  OMAHA = 2;
+  TEXAS_HOLDEM_EVENT = 3;
+  OMAHA_EVENT = 4;
+  SATELLITE_TEXAS_HOLDEM = 5;
+  SATELLITE_OMAHA = 6;
+  SATELLITE_TEXAS_HOLDEM_EVENT = 7;
+  SATELLITE_OMAHA_EVENT = 8;
+  PRIVATE_TEXAS_HOLDEM = 9;
+  PRIVATE_OMAHA = 10;
+  MONEYMAKER_TEXAS_HOLDEM = 11;
+  MONEYMAKER_OMAHA = 12;
+  SATELLITE_MONEYMAKER_TEXAS_HOLDEM = 14;
+  SATELLITE_MONEYMAKER_OMAHA = 15;
+  MINIGAMETYPE_OFC = 16;
+  FIVE_CARDS_OMAHA = 17;
+  TEXAS_SIX_PLUS = 18;
+  OGE_SIX_CARDS_OMAHA=19;
+  SIX_CARDS_OMAHA = 20;
+  SUPER_HOLDEM = 21;
+ }
+
+enum CreditTransactionStatus{
+  unknown = 0;
+  init = 1;
+  pending = 2;
+  rejected = 3;
+  approved = 4;
+  semi_approved = 5;
+}
+
+enum RefundReasons{
+  UNKNOWN_REASON = 0;
+  UN_REGISTRATION = 1;
+  CANCELED = 2;
+  RE_SCHEDULED = 3;
+}
+/**
+Possible coin types used in debit, credit and check balance APIs
+Note only using cash and play chips for now.
+*/
+enum CoinType{
+  // default value, will be used if no specific value is present in debit/credit/check balance API
+  UNKNOWN_COIN_TYPE = 0;
+  CASH = 1;
+  PLAY_CHIPS = 2;
+  FPP_BONUS = 3;
+  COIN_TYPE_REWARD_COINS = 4;
+  COIN_TYPE_REWARD_POINTS = 5;
+  TICKET = 6;
+}
+
+/**
+Possible balance types used in debit API
+ */
+enum BalanceType{
+  // default value, if no balance type is present in debit payload, amount will be debited from deposit balance
+  UNKNOWN = 0;
+  DEPOSIT = 1;
+  WIN = 2;
+  PROMO = 3;
+}
+
+/**
+  Possible request source
+ */
+enum ClientSource{
+    UNKNOWN_SOURCE = 0;
+    OLD_GAME_ENGINE = 1;
+    NEW_GAME_ENGINE = 2;
+    BACK_OFFICE = 3;
+    CLIENT_LAMBDA = 4;
+    TICKETING_SERVICE = 5;
+}
+
+enum EVChopTransactionType{
+  EVCHOP_UNKNOWN = 0;
+  EVCHOP_DEBIT = 1;
+  EVCHOP_CREDIT = 2;
+  EVCHOP_RECONCILIATION = 3;
+}
+
+enum SplashTransactionType{
+  SPLASH_UNKNOWN = 0;
+  SPLASH_DEBIT = 1;
+  SPLASH_CREDIT = 2;
+  SPLASH_ROLLBACK = 3;
+  SPLASH_TOPUP = 4;
+  SPLASH_SHAREABLE_CREDIT = 5;
+}
+
+enum EVChopTransactionStatus{
+  EVCHOP_TRXN_STATUS_UNKNOWN = 0;
+  EVCHOP_CREDIT_SUCCESS = 1;
+  EVCHOP_DEBIT_SUCCESS = 2;
+  EVCHOP_DEBIT_FAIL = 3;
+  EVCHOP_RECONCILIATION_SUCCESS = 4;
+}
+
+enum SplashTransactionStatus{
+  SPLASH_TRXN_STATUS_UNKNOWN = 0;
+  SPLASH_CREDIT_SUCCESS = 1;
+  SPLASH_DEBIT_SUCCESS = 2;
+  SPLASH_DEBIT_FAIL = 3;
+  SPLASH_ROLLBACK_SUCCESS = 4;
+  SPLASH_TOPUP_CREDIT_SUCCESS = 5;
+  SPLASH_TOPUP_DEBIT_SUCCESS = 6;
+  SPLASH_SHAREABLE_CREDIT_SUCCESS = 7;
+}
+
+enum WalletType{
+  UNKNOWN_WALLET_TYPE = 0;
+   EV_CHOP = 1;
+   WALLET  = 2;
+   SPLASH_THE_POT = 3;
+}
+
+/**
+This is the Balance Payload which is required by the check balance API's
+*/
+message BalancePayload{
+  uint64 userID = 1; // will always be +ve
+  uint64 partnerID = 2; // will always be +ve
+  repeated CoinType coinType = 3;
+  bool isPrivate = 4;
+  ClientMetaData clientMetaData = 19;
+}
+
+message BalanceBreakupResp{
+  CoinType coinType = 1;
+  AmountBreakup balanceBreakup = 2;
+}
+
+/**
+Response of the check balance api
+*/
+message BalanceResponse{
+  uint64 userID = 1; // will always be +ve
+  repeated BalanceBreakupResp balanceResp = 2;
+}
+
+
+// Amount breakup used for balance/debit/credit
+message AmountBreakup{
+  double totalAmount = 1;
+  double depositAmount = 2;
+  double winAmount = 3;
+  double promoAmount = 4;
+}
+
+message DebitTransaction{
+  CoinType coinType = 1;
+  DebitTransactionType transactionType = 2;
+  double transactionAmount = 3;
+}
+
+/**
+This is the Debit Payload which is required by the debit amount API's.
+*/
+message DebitPayload{
+  uint64 userID = 1;
+  uint64 partnerID = 2;
+
+  //player session id per table
+  string internalReferenceNumber = 3;
+
+  repeated DebitTransaction debitTransactionInfo = 4;
+  uint64 tableID = 5;
+  string templateName = 6;
+  bool isPrivate = 7;
+  // incase of tournaments
+  uint64 tournamentStartTime = 8;// epoch time in milis
+  double overallPrize = 9;
+  BalanceType balanceTypeFirst = 10;
+  BalanceType balanceTypeSecond = 11;
+  BalanceType balanceTypeThird = 12;
+  GameType gameType = 13;
+  // unique for every transaction
+  string transactionID = 14;
+  uint64 timestamp = 15;
+  ClientMetaData clientMetaData = 16;
+  uint64 actualPartnerID = 17;
+  NgeTournamentType ngeTournamentType = 18;
+  string customComment = 19;
+}
+
+
+/**
+Response of the debit amount API
+*/
+message DebitResponse{
+  uint64 userId = 1;
+  uint64 partnerID = 2;
+  string partnerReferenceNumber = 3;
+  AmountBreakup debitAmountBreakup = 4;
+  bool idempotent = 5;
+}
+
+message CreditTransaction{
+  CoinType coinType = 1;
+  CreditTransactionType transactionType = 2;
+  double wageredAmount = 3;
+  //player session id per table
+  string internalReferenceNumber = 4;
+
+  AmountBreakup creditAmountBreakup = 5;
+  uint32 handsPlayedCount = 6;
+
+  //rake generated by user
+  double grossRake = 7;
+  double netRake = 8;
+  double bonusRake = 9;
+  double serviceTax = 10;
+  double cumulativeWinnings = 11;
+  double wagerWithRake = 12;
+  double splashWinAmount = 13;
+}
+
+message CreditAmountResp{
+  string partnerReferenceNumber = 1;
+}
+
+/**
+This is the Credit Payload which is required by the credit amount API's.
+*/
+message CreditPayload{
+  uint64 userID = 1 ;
+  uint64 partnerID = 2 ;
+  CreditTransaction creditTransactionInfo = 3;
+  // unique for every transaction
+  string transactionID = 4;
+  // other information
+  double buyIn = 5;
+  GameType gameType = 6;
+  MiniGameType miniGameType = 7;
+  double bigBlind = 8;
+  bool isPrivate = 9;
+  double rejectedAmount = 10;
+  string rejectedReason = 11;
+  CreditTransactionStatus status = 12;
+  uint64  tableId = 13;
+  string templateName = 14;
+  RefundReasons refundReason = 15;
+  double rakeParcentage = 16;
+  double rakeCap = 17;
+  uint64 timestamp = 18;
+  ClientMetaData clientMetaData = 19;
+  uint64 actualPartnerID = 20 ;
+  NgeTournamentType ngeTournamentType = 21;
+  uint64 configId = 22;
+  string customComment = 23;
+  int64 ticketId = 24;
+}
+
+/**
+Response of the credit amount api
+*/
+message CreditResponse{
+  CreditAmountResp creditAmountResp = 1;
+  bool idempotent = 2;
+  uint64 userId = 3;
+  uint64 partnerId = 4;
+}
+
+message EvChopCreditResponse{
+  uint64 handId = 1;
+  uint64 tableId = 2;
+  bool idempotent = 3;
+  bool response = 4;
+}
+
+message EvChopDebitResponse{
+  uint64 handId = 1;
+  uint64 tableId = 2;
+  bool idempotent = 3;
+  bool response = 4;
+}
+
+message EvChopCreditPayload {
+  uint64 tableID = 1;
+  uint64 handID = 2;
+  double bigBlind = 3;
+  MiniGameType miniGameType = 4;
+  GameType tournamentType = 5;
+  EVChopTransactionType transactionType = 6;
+  uint64 noOfUser = 7;
+  double debitAmount = 8 [deprecated = true];
+  double creditAmount = 9 [deprecated = true];
+  double revenue  = 10 [deprecated = true];
+  EVChopTransactionStatus status = 11;
+  //Unique for each Transaction
+  string transactionID = 12;
+  EvChopDebitAmount evChopDebitAmount = 13;
+  EvChopCreditAmount evChopCreditAmount = 14;
+  string evChopCreditMetaData = 15;
+}
+
+message EvChopDebitPayload {
+  uint64 tableID = 1;
+  uint64 handID = 2;
+  double bigBlind = 3;
+  MiniGameType miniGameType = 4;
+  GameType tournamentType = 5;
+  EVChopTransactionType transactionType = 6;
+  uint64 noOfUser = 7;
+  double transactionAmount = 8 [deprecated = true];
+  EVChopTransactionStatus status = 9;
+  //Unique for each Transaction
+  string transactionID = 10;
+  EvChopDebitAmount evChopDebitAmount = 11;
+  string evChopDebitMetaData = 12;
+}
+
+message EvChopDebitAmount {
+  double potAfterRake = 1;
+  double splashDropAmount = 2;
+}
+
+message EvChopCreditAmount {
+  double remainingPotAfterRake = 1;
+  double remainingSplashDropAmount = 2;
+  double evChopFees = 3;
+}
+
+message SplashPayload {
+  uint64 handID = 1 ;
+  MiniGameType miniGameType = 2;
+  GameType tournamentType = 3;
+  double bigBlind = 4;
+  double trxnAmount = 5;
+  SplashTransactionType transactionType = 6;
+  SplashTransactionStatus status = 7;
+  //Unique for each TransactionTEXAS_HOLDEM
+  string transactionID = 8;
+}
+
+message SplashResponse{
+  double trxnAmount = 1;
+  bool idempotent = 2;
+  bool response = 3;
+  string transactionID = 4;
+}
+
+message SplashTotalAmountPayload {
+  string startDate = 1;
+  string endDate = 2;
+  MiniGameType miniGameType = 3;
+  GameType gameType = 4;
+  double bigBlind = 5;
+  repeated SplashTransactionType splashTransactionType = 6;
+}
+message SplashAmountBreakup {
+    SplashTransactionType splashTransactionType = 1;
+    double amount = 2;
+}
+message SplashTotalAmountResponse {
+    repeated SplashAmountBreakup splashAmountBreakup = 1;
+}
+
+message SplashShareableCreditPayload {
+  uint64 userId = 1;
+  uint64 partnerId = 2;
+  double amount = 3;
+  string internalReferenceNumber = 4;
+  CoinType coinType = 5;
+  BalanceType balanceType = 6;
+}
+
+message SplashBatchShareableCreditPayload {
+  uint64 handId = 1;
+  uint64 tableId = 2;
+  string transactionId = 3;
+  GameType gameType = 4;
+  MiniGameType miniGameType = 5;
+  SplashTransactionType splashTransactionType = 6;
+  repeated SplashShareableCreditPayload splashShareableCreditPayload = 7;
+}
+
+message SplashUserResponse {
+  uint64 userId = 1;
+  bool response = 2;
+  bool idempotent = 3;
+}
+
+message SplashBatchShareableCreditResponse {
+  uint64 handId = 1;
+  uint64 tableId = 2;
+  string transactionId = 3;
+  bool transaction_successful = 4;
+  repeated SplashUserResponse splashUserResponse = 5;
+}
+
+message CreditBatchPayload {
+  repeated CreditPayload creditPayloadInfo = 1;
+}
+
+message CreditBatchResponse {
+  repeated string creditSuccessTransactionInfo = 1;
+}
+/**
+  Common Properties
+ */
+message ClientMetaData {
+  string buildVersion = 1;
+  ClientSource clientSource = 2;
+}
+
+message ReconciliationPayload{
+  uint64 tableID = 1;
+  uint64 handID = 2;
+  WalletType walletType = 3;
+  string comment = 4;
+  string transactionID = 5;
+  double bigBlind = 6;
+  MiniGameType miniGameType = 7;
+  GameType tournamentType = 8;
+  uint64 noOfUser = 9;
+  EvChopDebitAmount evChopDebitAmount = 10;
+  string evChopMetaData = 11;
+}
+
+ message ReconciliationResponse{
+   bool idempotent = 1;
+   bool response = 2;
+ }
+
+message HealthCheckPayload {}
+
+message HealthCheckResponse {
+  string status = 1;
+}
+
+service WalletService{
+  /*
+   check the balance got the the user and returns the balance response
+  */
+  rpc checkBalance(BalancePayload) returns (BalanceResponse) {};
+
+  /*
+   debit the requested amount from the user account and returns the Debit response
+  */
+  rpc debit(DebitPayload) returns (DebitResponse);
+
+  /*
+   credit the requested amount within the user account and returns the Credit response
+  */
+  rpc credit(CreditPayload) returns (CreditResponse);
+
+  /*
+   batch credit request
+  */
+  rpc approveCredits(CreditBatchPayload) returns (CreditBatchResponse);
+}
+
+service WalletEvChop {
+
+  rpc evChopCredit(EvChopCreditPayload) returns (EvChopCreditResponse);
+
+  rpc evChopDebit(EvChopDebitPayload) returns (EvChopDebitResponse);
+
+  rpc reconciliation(ReconciliationPayload) returns (ReconciliationResponse) ;
+}
+
+service WalletSplashThePot{
+  /*
+   debit the requested amount from total collection amount and returns the Debit response
+  */
+  rpc splashDebit(SplashPayload) returns (SplashResponse);
+
+  /*
+   credit the requested amount in total collection amount and returns the Credit response
+  */
+  rpc splashCredit(SplashPayload) returns (SplashResponse);
+
+  /*
+    Topup the requested amount in total collection amount and returns the Credit response
+  */
+   rpc splashTopup(SplashPayload) returns (SplashResponse);
+
+   /*
+     Total Amount of collection or drop amount
+   */
+    rpc getSplashTotalAmount(SplashTotalAmountPayload) returns (SplashTotalAmountResponse);
+
+    /*
+      Shareable splash amount to user
+     */
+
+    rpc splashShareableCredit(SplashBatchShareableCreditPayload) returns (SplashBatchShareableCreditResponse);
+
+}
+
+service HealthCheck {
+  rpc healthCheck(HealthCheckPayload) returns (HealthCheckResponse);
+}
