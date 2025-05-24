@@ -32,37 +32,6 @@ const evChopClient = new wallet_proto.WalletEvChop(walletUrl, credentials);
 
 console.log(`Wallet client connected to ${walletUrl} (Transport Security: ${useTransportSecurity})`);
 
-
-async function makeGrpcCallForCheckBalance() {
-    const payload = await makeCheckBalancePayload();
-    console.log('Payload for checkBalance:', payload);
-    return new Promise((resolve, reject) => {
-        walletClient.checkBalance(payload, (error, response) => {
-            if (error) {
-                console.error('Error in checkBalance:', error);
-                return reject(error);
-            }
-            console.log('Balance response:', response);
-            resolve(response);
-        });
-    });
-}
-
-async function makeCheckBalancePayload() {
-    return {
-        "userID": 10697,
-        "partnerID": 10001,
-        "coinType": [
-            "CASH"
-        ],
-        "isPrivate": false,
-        "clientMetaData": {
-            "buildVersion": "Sample",
-            "clientSource": "TEST"
-        }
-    }
-}
-
 async function makeGrpcCallForEvChopCredit(evChopCreditPayload) {
     console.log('Payload for evChopCredit:', evChopCreditPayload);
     return new Promise((resolve, reject) => {
@@ -79,26 +48,26 @@ async function makeGrpcCallForEvChopCredit(evChopCreditPayload) {
 
 async function makeEvChopCreditPayload(item) {
     return {
-        "handID": item.HAND_ID,
+        "handID": item['HAND_ID'],
         "status": "EVCHOP_CREDIT_SUCCESS",
         "revenue": 0,
-        "tableID": item.TABLE_ID,
-        "bigBlind": item.BIG_BLIND,
-        "noOfUser": item.noOfUser,
+        "tableID": item['TABLE_ID'],
+        "bigBlind": item['BIG_BLIND'],
+        "noOfUser": item['no of users'],
         "debitAmount": 0,
         "creditAmount": 0,
-        "miniGameType": item.GAME_TYPE,
-        "transactionID": item.TRANSACTION_ID,
-        "tournamentType": item.TOURNAMENT_TYPE,
+        "miniGameType": item['GAME_TYPE'],
+        "transactionID": item['HAND_ID'] + item['TABLE_ID'],
+        "tournamentType": item['TOURNAMENT_TYPE'],
         "transactionType": "EVCHOP_CREDIT",
         "evChopDebitAmount": {
-            "potAfterRake": item.TRANSACTION_AMOUNT,
-            "splashDropAmount": 0
+            "potAfterRake": Number(item['debit_pot_after_rake']),
+            "splashDropAmount": Number(item['splash_drop_amount'])
         },
         "evChopCreditAmount": {
-            "evChopFees": item.EVCHOP_FEE,
-            "remainingPotAfterRake": item.remaining_pot_after_rake,
-            "remainingSplashDropAmount": 0
+            "evChopFees": Number(item['evChopFees']),
+            "remainingPotAfterRake": Number(item['remaining_pot_after_rake']),
+            "remainingSplashDropAmount": Number(item['remainingSplashDropAmount'])
         },
         "evChopCreditMetaData": "{\"message\":\"EvChop credit trxn fix\"}"
     }
@@ -106,19 +75,30 @@ async function makeEvChopCreditPayload(item) {
 
 async function main() {
     // await makeGrpcCallForCheckBalance();
-    const data = await fsp.readFile(__dirname + "/json/evchop_nonSplash_till_24-05-2025-6-00-00.json", "utf8");
-    const payload = JSON.parse(data);
+    const data = await fsp.readFile(__dirname + "/csv/test.csv", "utf8");
+    const csvRows = data.split('\n').filter(row => row.trim().length > 0);
+    const headers = csvRows[0].split(',').map(h => h.trim());
+    const payload = csvRows.slice(1).map(row => {
+        const values = row.split(',').map(v => v.trim());
+        const obj = {};
+        headers.forEach((header, idx) => {
+            obj[header] = values[idx];
+        });
+        return obj;
+    });
+
     let sum = 0;
 
     for (const item of payload) {
         console.log('Processing item:', item);
-        // sum = sum + item.EVCHOP_FEE + item.remaining_pot_after_rake;
+        
+        sum = sum + Number(item['evChopFees']) + Number(item['remaining_pot_after_rake']) + Number(item['remainingSplashDropAmount']);
         const evChopCreditPayload = await makeEvChopCreditPayload(item);
         await makeGrpcCallForEvChopCredit(evChopCreditPayload);
-        console.log('Processed transactionId:', item.TRANSACTION_ID);
+        console.log('Processed transactionId:', item['HAND_ID'] + item['TABLE_ID']);
     }
     console.log('All items processed. Total count:', payload.length);
-    // console.log(`Total credit amount: ${sum}`);
+    console.log(`Total credit amount: ${sum}`);
 }
 
 main(); // Call main when you are ready to connect
