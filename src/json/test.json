@@ -1,0 +1,25 @@
+[
+    {
+		"EVCHOP_ID" : 273,
+		"GAME_TYPE" : "SIX_CARDS_OMAHA",
+		"TOURNAMENT_TYPE" : "RING",
+		"BIG_BLIND" : 6.00,
+		"HAND_ID" : 27211480001,
+		"TABLE_ID" : 2721148,
+		"NO_OF_USERS" : 2,
+		"TRANSACTION_AMOUNT" : 392.32,
+		"TRANSACTION_ID" : "272114800012721148",
+		"TRANSACTION_TYPE_ID" : 176,
+		"TRANSACTION_STATUS_ID" : 294,
+		"IS_PROCESSED" : 1,
+		"PAYLOAD" : "{\"handID\": \"27211480001\", \"status\": \"EVCHOP_DEBIT_SUCCESS\", \"tableID\": \"2721148\", \"bigBlind\": 6, \"noOfUser\": \"2\", \"miniGameType\": \"SIX_CARDS_OMAHA\", \"transactionID\": \"272114800012721148\", \"tournamentType\": \"RING\", \"transactionType\": \"EVCHOP_DEBIT\", \"evChopDebitAmount\": {\"potAfterRake\": 392.32, \"splashDropAmount\": 0}, \"transactionAmount\": 0, \"evChopDebitMetaData\": \"{\\\"totalPotAmount\\\":400.00,\\\"rake\\\":7.68,\\\"totalPotAfterRake\\\":392.32,\\\"splashDropAmount\\\":0,\\\"potDetails\\\":[{\\\"potId\\\":0,\\\"potAmount\\\":400.00,\\\"playerDetails\\\":[{\\\"playerId\\\":3772032,\\\"winChance\\\":34.08},{\\\"playerId\\\":4914503,\\\"winChance\\\":65.92}]}]}\"}",
+		"META_DATA" : "{\"rake\": 7.68, \"potDetails\": [{\"potId\": 0, \"potAmount\": 400, \"playerDetails\": [{\"playerId\": 3772032, \"winChance\": 34.08}, {\"playerId\": 4914503, \"winChance\": 65.92}]}], \"totalPotAmount\": 400, \"splashDropAmount\": 0, \"totalPotAfterRake\": 392.32}",
+		"CREATED_DATE" : "2025-05-22 09:31:01",
+		"LAST_UPDATED_DATE" : "2025-05-22 09:31:01",
+		"hand_id" : 27211480001,
+		"noOfUser" : 4,
+		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
+		"remaining_pot_after_rake" : 392.32
+	}
+]

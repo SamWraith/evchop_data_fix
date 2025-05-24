@@ -1,4 +1,6 @@
 require('dotenv').config();
+const fs = require("fs"); // for createReadStream
+const fsp = fs.promises;
 const grpc = require('@grpc/grpc-js');
 const protoLoader = require('@grpc/proto-loader');
 
@@ -25,7 +27,7 @@ if (useTransportSecurity) {
     credentials = grpc.credentials.createInsecure();
 }
 
-const walletClient = new wallet_proto.WalletService(walletUrl, credentials); 
+const walletClient = new wallet_proto.WalletService(walletUrl, credentials);
 const evChopClient = new wallet_proto.WalletEvChop(walletUrl, credentials);
 
 console.log(`Wallet client connected to ${walletUrl} (Transport Security: ${useTransportSecurity})`);
@@ -58,12 +60,63 @@ async function makeCheckBalancePayload() {
             "buildVersion": "Sample",
             "clientSource": "TEST"
         }
-      }
+    }
 }
 
-function main() {
-    makeGrpcCallForCheckBalance();
+async function makeGrpcCallForEvChopCredit(evChopCreditPayload) {
+    console.log('Payload for evChopCredit:', evChopCreditPayload);
+    return new Promise((resolve, reject) => {
+        evChopClient.evChopCredit(evChopCreditPayload, (error, response) => {
+            if (error) {
+                console.error('Error in evChopCredit:', error);
+                return reject(error);
+            }
+            console.log('EvChop credit response:', response);
+            resolve(response);
+        });
+    });
+}
 
+async function makeEvChopCreditPayload(item) {
+    return {
+        "handID": item.HAND_ID,
+        "status": "EVCHOP_CREDIT_SUCCESS",
+        "revenue": 0,
+        "tableID": item.TABLE_ID,
+        "bigBlind": item.BIG_BLIND,
+        "noOfUser": item.noOfUser,
+        "debitAmount": 0,
+        "creditAmount": 0,
+        "miniGameType": item.GAME_TYPE,
+        "transactionID": item.TRANSACTION_ID,
+        "tournamentType": item.TOURNAMENT_TYPE,
+        "transactionType": "EVCHOP_CREDIT",
+        "evChopDebitAmount": {
+            "potAfterRake": item.TRANSACTION_AMOUNT,
+            "splashDropAmount": 0
+        },
+        "evChopCreditAmount": {
+            "evChopFees": item.EVCHOP_FEE,
+            "remainingPotAfterRake": item.remaining_pot_after_rake,
+            "remainingSplashDropAmount": 0
+        },
+        "evChopCreditMetaData": "{\"message\":\"EvChop credit trxn fix\"}"
+    }
+}
+
+async function main() {
+    // await makeGrpcCallForCheckBalance();
+    
+    const data = await fsp.readFile(__dirname + "/json/test.json", "utf8");
+    const payload = JSON.parse(data);
+
+    for (const item of payload) {
+        console.log('Processing item:', item);
+        const evChopCreditPayload = await makeEvChopCreditPayload(item);
+        await makeGrpcCallForEvChopCredit(evChopCreditPayload);
+        console.log('Processed transactionId:', item.TRANSACTION_ID);
+    }
+    console.log('All items processed. Total count:', payload.length);
 }
 
 main(); // Call main when you are ready to connect

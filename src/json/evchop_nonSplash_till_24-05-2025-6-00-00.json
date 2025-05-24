@@ -19,6 +19,7 @@
 		"hand_id" : 27211480001,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 392.32
 	},
 	{
@@ -41,6 +42,7 @@
 		"hand_id" : 27211590016,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -35.64,
+		"EVCHOP_FEE" : 1.07,
 		"remaining_pot_after_rake" : 79.89
 	},
 	{
@@ -63,6 +65,7 @@
 		"hand_id" : 27211590028,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -75.12,
+		"EVCHOP_FEE" : 2.25,
 		"remaining_pot_after_rake" : 153.64
 	},
 	{
@@ -85,6 +88,7 @@
 		"hand_id" : 27211590034,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -254.32,
+		"EVCHOP_FEE" : 7.63,
 		"remaining_pot_after_rake" : 529.02
 	},
 	{
@@ -107,6 +111,7 @@
 		"hand_id" : 27213680005,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 194.42,
+		"EVCHOP_FEE" : 14.72,
 		"remaining_pot_after_rake" : 879.47
 	},
 	{
@@ -129,6 +134,7 @@
 		"hand_id" : 8788830059,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -8.20,
+		"EVCHOP_FEE" : 0.25,
 		"remaining_pot_after_rake" : 20.54
 	},
 	{
@@ -151,6 +157,7 @@
 		"hand_id" : 27212720022,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1938.40
 	},
 	{
@@ -173,6 +180,7 @@
 		"hand_id" : 8788880050,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -195,6 +203,7 @@
 		"hand_id" : 27213540030,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 179.79
 	},
 	{
@@ -217,6 +226,7 @@
 		"hand_id" : 8789090006,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 8.58,
+		"EVCHOP_FEE" : 0.60,
 		"remaining_pot_after_rake" : 37.32
 	},
 	{
@@ -239,6 +249,7 @@
 		"hand_id" : 27213040075,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 256.89
 	},
 	{
@@ -261,6 +272,7 @@
 		"hand_id" : 8788880097,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -24.39,
+		"EVCHOP_FEE" : 0.73,
 		"remaining_pot_after_rake" : 4.35
 	},
 	{
@@ -283,6 +295,7 @@
 		"hand_id" : 27213610045,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 333.95
 	},
 	{
@@ -305,6 +318,7 @@
 		"hand_id" : 27214680031,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -554.27,
+		"EVCHOP_FEE" : 16.63,
 		"remaining_pot_after_rake" : 1356.23
 	},
 	{
@@ -327,6 +341,7 @@
 		"hand_id" : 8788980045,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -4.57,
+		"EVCHOP_FEE" : 0.14,
 		"remaining_pot_after_rake" : 24.17
 	},
 	{
@@ -349,6 +364,7 @@
 		"hand_id" : 27214420050,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1951.35
 	},
 	{
@@ -371,6 +387,7 @@
 		"hand_id" : 27216040020,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 80.50,
+		"EVCHOP_FEE" : 48.42,
 		"remaining_pot_after_rake" : 1775.14
 	},
 	{
@@ -393,6 +410,7 @@
 		"hand_id" : 27214610064,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 540.37
 	},
 	{
@@ -415,6 +433,7 @@
 		"hand_id" : 27213040110,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 366.48
 	},
 	{
@@ -437,6 +456,7 @@
 		"hand_id" : 27216180016,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -420.65,
+		"EVCHOP_FEE" : 12.62,
 		"remaining_pot_after_rake" : 2384.16
 	},
 	{
@@ -459,6 +479,7 @@
 		"hand_id" : 27213490075,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 33082.58
 	},
 	{
@@ -481,6 +502,7 @@
 		"hand_id" : 8789430010,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 11.53,
+		"EVCHOP_FEE" : 0.51,
 		"remaining_pot_after_rake" : 40.27
 	},
 	{
@@ -503,6 +525,7 @@
 		"hand_id" : 27213590104,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1146.08
 	},
 	{
@@ -525,6 +548,7 @@
 		"hand_id" : 27214760027,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2184.14
 	},
 	{
@@ -547,6 +571,7 @@
 		"hand_id" : 27214730059,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 407.18
 	},
 	{
@@ -569,6 +594,7 @@
 		"hand_id" : 27215340056,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1211.79
 	},
 	{
@@ -591,6 +617,7 @@
 		"hand_id" : 8789110124,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -613,6 +640,7 @@
 		"hand_id" : 27213930099,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 957.80
 	},
 	{
@@ -635,6 +663,7 @@
 		"hand_id" : 27214520092,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 150.43
 	},
 	{
@@ -657,6 +686,7 @@
 		"hand_id" : 27212630144,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 97.17,
+		"EVCHOP_FEE" : 14.11,
 		"remaining_pot_after_rake" : 664.76
 	},
 	{
@@ -679,6 +709,7 @@
 		"hand_id" : 27217220008,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3396.12
 	},
 	{
@@ -701,6 +732,7 @@
 		"hand_id" : 27217980007,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 149.95
 	},
 	{
@@ -723,6 +755,7 @@
 		"hand_id" : 27215840070,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 553.72
 	},
 	{
@@ -745,6 +778,7 @@
 		"hand_id" : 27215360008,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -1458.41,
+		"EVCHOP_FEE" : 43.75,
 		"remaining_pot_after_rake" : 41310.08
 	},
 	{
@@ -767,6 +801,7 @@
 		"hand_id" : 27214500091,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 268.88
 	},
 	{
@@ -789,6 +824,7 @@
 		"hand_id" : 27215340089,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2745.62
 	},
 	{
@@ -811,6 +847,7 @@
 		"hand_id" : 27216300071,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 917.42,
+		"EVCHOP_FEE" : 28.84,
 		"remaining_pot_after_rake" : 2796.23
 	},
 	{
@@ -833,6 +870,7 @@
 		"hand_id" : 27216780063,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 269788.34
 	},
 	{
@@ -855,6 +893,7 @@
 		"hand_id" : 27213590162,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 974.07,
+		"EVCHOP_FEE" : 24.35,
 		"remaining_pot_after_rake" : 2759.71
 	},
 	{
@@ -877,6 +916,7 @@
 		"hand_id" : 27216450075,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 10065.59
 	},
 	{
@@ -899,6 +939,7 @@
 		"hand_id" : 27214680124,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 528.61
 	},
 	{
@@ -921,6 +962,7 @@
 		"hand_id" : 27218610002,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1138.56
 	},
 	{
@@ -943,6 +985,7 @@
 		"hand_id" : 27213750132,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 96.40
 	},
 	{
@@ -965,6 +1008,7 @@
 		"hand_id" : 27214180124,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -41.38,
+		"EVCHOP_FEE" : 1.24,
 		"remaining_pot_after_rake" : 815.19
 	},
 	{
@@ -987,6 +1031,7 @@
 		"hand_id" : 27218010039,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 639.09,
+		"EVCHOP_FEE" : 48.96,
 		"remaining_pot_after_rake" : 2910.21
 	},
 	{
@@ -1009,6 +1054,7 @@
 		"hand_id" : 27217900043,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4094.15
 	},
 	{
@@ -1031,6 +1077,7 @@
 		"hand_id" : 27217220047,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1971.61
 	},
 	{
@@ -1053,6 +1100,7 @@
 		"hand_id" : 27216230102,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -115.06,
+		"EVCHOP_FEE" : 3.45,
 		"remaining_pot_after_rake" : 1571.97
 	},
 	{
@@ -1075,6 +1123,7 @@
 		"hand_id" : 27218720017,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -5.87,
+		"EVCHOP_FEE" : 0.18,
 		"remaining_pot_after_rake" : 522.97
 	},
 	{
@@ -1097,6 +1146,7 @@
 		"hand_id" : 27212070176,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 404.43
 	},
 	{
@@ -1119,6 +1169,7 @@
 		"hand_id" : 27216180085,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -213.19,
+		"EVCHOP_FEE" : 6.40,
 		"remaining_pot_after_rake" : 940.46
 	},
 	{
@@ -1141,6 +1192,7 @@
 		"hand_id" : 27216780095,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 9601.30,
+		"EVCHOP_FEE" : 383.22,
 		"remaining_pot_after_rake" : 31976.73
 	},
 	{
@@ -1163,6 +1215,7 @@
 		"hand_id" : 27216230129,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 707.83,
+		"EVCHOP_FEE" : 14.32,
 		"remaining_pot_after_rake" : 1893.08
 	},
 	{
@@ -1185,6 +1238,7 @@
 		"hand_id" : 27215820129,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -603.29,
+		"EVCHOP_FEE" : 18.10,
 		"remaining_pot_after_rake" : 1875.32
 	},
 	{
@@ -1207,6 +1261,7 @@
 		"hand_id" : 27216230134,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 535.59,
+		"EVCHOP_FEE" : 46.14,
 		"remaining_pot_after_rake" : 2609.09
 	},
 	{
@@ -1229,6 +1284,7 @@
 		"hand_id" : 27213590214,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1975.50
 	},
 	{
@@ -1251,6 +1307,7 @@
 		"hand_id" : 27216310070,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 366.48
 	},
 	{
@@ -1273,6 +1330,7 @@
 		"hand_id" : 27219520023,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 41.73,
+		"EVCHOP_FEE" : 10.68,
 		"remaining_pot_after_rake" : 549.70
 	},
 	{
@@ -1295,6 +1353,7 @@
 		"hand_id" : 27214860152,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 264.57
 	},
 	{
@@ -1317,6 +1376,7 @@
 		"hand_id" : 27213210158,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2865.82
 	},
 	{
@@ -1339,6 +1399,7 @@
 		"hand_id" : 27214310171,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 812.29
 	},
 	{
@@ -1361,6 +1422,7 @@
 		"hand_id" : 27213570232,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -272.59,
+		"EVCHOP_FEE" : 8.18,
 		"remaining_pot_after_rake" : 1151.61
 	},
 	{
@@ -1383,6 +1445,7 @@
 		"hand_id" : 27218430063,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 93.66
 	},
 	{
@@ -1405,6 +1468,7 @@
 		"hand_id" : 27212170163,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 23340.57
 	},
 	{
@@ -1427,6 +1491,7 @@
 		"hand_id" : 27216980114,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2093.81
 	},
 	{
@@ -1449,6 +1514,7 @@
 		"hand_id" : 27213980153,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 95.00,
+		"EVCHOP_FEE" : 1.86,
 		"remaining_pot_after_rake" : 251.94
 	},
 	{
@@ -1471,6 +1537,7 @@
 		"hand_id" : 27214300185,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 526.55
 	},
 	{
@@ -1493,6 +1560,7 @@
 		"hand_id" : 27216630023,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -747.14,
+		"EVCHOP_FEE" : 22.41,
 		"remaining_pot_after_rake" : 1982.64
 	},
 	{
@@ -1515,6 +1583,7 @@
 		"hand_id" : 27213060224,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 241.39
 	},
 	{
@@ -1537,6 +1606,7 @@
 		"hand_id" : 27220310004,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1292.22
 	},
 	{
@@ -1559,6 +1629,7 @@
 		"hand_id" : 27214760151,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2892.60
 	},
 	{
@@ -1581,6 +1652,7 @@
 		"hand_id" : 27213910235,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 865.99
 	},
 	{
@@ -1603,6 +1675,7 @@
 		"hand_id" : 27216310104,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 735.28
 	},
 	{
@@ -1625,6 +1698,7 @@
 		"hand_id" : 27212170189,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 30353.76
 	},
 	{
@@ -1647,6 +1721,7 @@
 		"hand_id" : 27218910082,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -67.17,
+		"EVCHOP_FEE" : 2.02,
 		"remaining_pot_after_rake" : 917.73
 	},
 	{
@@ -1669,6 +1744,7 @@
 		"hand_id" : 27220310017,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1156.13
 	},
 	{
@@ -1691,6 +1767,7 @@
 		"hand_id" : 27216550152,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 171.00,
+		"EVCHOP_FEE" : 15.45,
 		"remaining_pot_after_rake" : 856.91
 	},
 	{
@@ -1713,6 +1790,7 @@
 		"hand_id" : 27219960012,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1302.23
 	},
 	{
@@ -1735,6 +1813,7 @@
 		"hand_id" : 27218430095,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 169.41
 	},
 	{
@@ -1757,6 +1836,7 @@
 		"hand_id" : 27213910253,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1788.82
 	},
 	{
@@ -1779,6 +1859,7 @@
 		"hand_id" : 27212920225,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -30.06,
+		"EVCHOP_FEE" : 0.90,
 		"remaining_pot_after_rake" : 179.45
 	},
 	{
@@ -1801,6 +1882,7 @@
 		"hand_id" : 27214510240,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 490.15
 	},
 	{
@@ -1823,6 +1905,7 @@
 		"hand_id" : 27216180160,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -291.17,
+		"EVCHOP_FEE" : 8.74,
 		"remaining_pot_after_rake" : 693.19
 	},
 	{
@@ -1845,6 +1928,7 @@
 		"hand_id" : 27219970082,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1424.20
 	},
 	{
@@ -1867,6 +1951,7 @@
 		"hand_id" : 27214500209,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 252.31
 	},
 	{
@@ -1889,6 +1974,7 @@
 		"hand_id" : 27217030127,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 154.68
 	},
 	{
@@ -1911,6 +1997,7 @@
 		"hand_id" : 27214510244,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1448.58
 	},
 	{
@@ -1933,6 +2020,7 @@
 		"hand_id" : 27221910004,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 236.58
 	},
 	{
@@ -1955,6 +2043,7 @@
 		"hand_id" : 27221110036,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -4.23,
+		"EVCHOP_FEE" : 0.13,
 		"remaining_pot_after_rake" : 858.71
 	},
 	{
@@ -1977,6 +2066,7 @@
 		"hand_id" : 27214310246,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -439.70,
+		"EVCHOP_FEE" : 13.19,
 		"remaining_pot_after_rake" : 217.83
 	},
 	{
@@ -1999,6 +2089,7 @@
 		"hand_id" : 27218800142,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7362.12
 	},
 	{
@@ -2021,6 +2112,7 @@
 		"hand_id" : 27216080193,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 233.29
 	},
 	{
@@ -2043,6 +2135,7 @@
 		"hand_id" : 27221370038,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 30222.15
 	},
 	{
@@ -2065,6 +2158,7 @@
 		"hand_id" : 27212150256,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 16977.62
 	},
 	{
@@ -2087,6 +2181,7 @@
 		"hand_id" : 27222380006,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 37464.00
 	},
 	{
@@ -2109,6 +2204,7 @@
 		"hand_id" : 27216180191,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3799.42
 	},
 	{
@@ -2131,6 +2227,7 @@
 		"hand_id" : 27212980302,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3489.95
 	},
 	{
@@ -2153,6 +2250,7 @@
 		"hand_id" : 27221110060,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 282.83
 	},
 	{
@@ -2175,6 +2273,7 @@
 		"hand_id" : 27216380224,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 786.24
 	},
 	{
@@ -2197,6 +2296,7 @@
 		"hand_id" : 27223040005,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1388.44
 	},
 	{
@@ -2219,6 +2319,7 @@
 		"hand_id" : 27216980210,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4036.80
 	},
 	{
@@ -2241,6 +2342,7 @@
 		"hand_id" : 27216550210,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -370.72,
+		"EVCHOP_FEE" : 11.12,
 		"remaining_pot_after_rake" : 142.46
 	},
 	{
@@ -2263,6 +2365,7 @@
 		"hand_id" : 27222300043,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3722.36
 	},
 	{
@@ -2285,6 +2388,7 @@
 		"hand_id" : 27222390030,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1438.65
 	},
 	{
@@ -2307,6 +2411,7 @@
 		"hand_id" : 27218970132,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 729.36,
+		"EVCHOP_FEE" : 4.86,
 		"remaining_pot_after_rake" : 1620.78
 	},
 	{
@@ -2329,6 +2434,7 @@
 		"hand_id" : 27213680304,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 583.24
 	},
 	{
@@ -2351,6 +2457,7 @@
 		"hand_id" : 27213170268,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 104.17
 	},
 	{
@@ -2373,6 +2480,7 @@
 		"hand_id" : 27216080213,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 236.34
 	},
 	{
@@ -2395,6 +2503,7 @@
 		"hand_id" : 27219960095,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 727.17
 	},
 	{
@@ -2417,6 +2526,7 @@
 		"hand_id" : 27222520018,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 321.31
 	},
 	{
@@ -2439,6 +2549,7 @@
 		"hand_id" : 27222910022,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7064.16
 	},
 	{
@@ -2461,6 +2572,7 @@
 		"hand_id" : 27223430022,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1168.09
 	},
 	{
@@ -2483,6 +2595,7 @@
 		"hand_id" : 27214510295,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 574.27
 	},
 	{
@@ -2505,6 +2618,7 @@
 		"hand_id" : 27223150026,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1565.31
 	},
 	{
@@ -2527,6 +2641,7 @@
 		"hand_id" : 27220320096,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 16.69,
+		"EVCHOP_FEE" : 2.27,
 		"remaining_pot_after_rake" : 109.13
 	},
 	{
@@ -2549,6 +2664,7 @@
 		"hand_id" : 27215310277,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1159.87
 	},
 	{
@@ -2571,6 +2687,7 @@
 		"hand_id" : 27213060326,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 99.71,
+		"EVCHOP_FEE" : 1.12,
 		"remaining_pot_after_rake" : 236.68
 	},
 	{
@@ -2593,6 +2710,7 @@
 		"hand_id" : 27218800203,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 11149.55
 	},
 	{
@@ -2615,6 +2733,7 @@
 		"hand_id" : 27220860114,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 551.36
 	},
 	{
@@ -2637,6 +2756,7 @@
 		"hand_id" : 27214310308,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 933.55
 	},
 	{
@@ -2659,6 +2779,7 @@
 		"hand_id" : 27221820031,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 580.97
 	},
 	{
@@ -2681,6 +2802,7 @@
 		"hand_id" : 27221420078,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 336.69
 	},
 	{
@@ -2703,6 +2825,7 @@
 		"hand_id" : 27221910049,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 181.76
 	},
 	{
@@ -2725,6 +2848,7 @@
 		"hand_id" : 27217390188,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -196.91,
+		"EVCHOP_FEE" : 5.91,
 		"remaining_pot_after_rake" : 2641.68
 	},
 	{
@@ -2747,6 +2871,7 @@
 		"hand_id" : 27214420334,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4282.32
 	},
 	{
@@ -2769,6 +2894,7 @@
 		"hand_id" : 27223150044,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1447.97
 	},
 	{
@@ -2791,6 +2917,7 @@
 		"hand_id" : 27224020018,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -384.65,
+		"EVCHOP_FEE" : 11.54,
 		"remaining_pot_after_rake" : 1175.75
 	},
 	{
@@ -2813,6 +2940,7 @@
 		"hand_id" : 27221470073,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 389.99,
+		"EVCHOP_FEE" : 10.13,
 		"remaining_pot_after_rake" : 1117.67
 	},
 	{
@@ -2835,6 +2963,7 @@
 		"hand_id" : 27213910330,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 629.37,
+		"EVCHOP_FEE" : 75.35,
 		"remaining_pot_after_rake" : 3770.45
 	},
 	{
@@ -2857,6 +2986,7 @@
 		"hand_id" : 27222960052,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 16923.68
 	},
 	{
@@ -2879,6 +3009,7 @@
 		"hand_id" : 27222230092,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 90696.00
 	},
 	{
@@ -2901,6 +3032,7 @@
 		"hand_id" : 27223110056,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 4174.48,
+		"EVCHOP_FEE" : 55.11,
 		"remaining_pot_after_rake" : 10186.11
 	},
 	{
@@ -2923,6 +3055,7 @@
 		"hand_id" : 27213050333,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 628.62
 	},
 	{
@@ -2945,6 +3078,7 @@
 		"hand_id" : 27222520065,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 200.76
 	},
 	{
@@ -2967,6 +3101,7 @@
 		"hand_id" : 27222380101,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29591.57
 	},
 	{
@@ -2989,6 +3124,7 @@
 		"hand_id" : 27221770094,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1892.20
 	},
 	{
@@ -3011,6 +3147,7 @@
 		"hand_id" : 27220010170,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 31.33,
+		"EVCHOP_FEE" : 12.84,
 		"remaining_pot_after_rake" : 490.77
 	},
 	{
@@ -3033,6 +3170,7 @@
 		"hand_id" : 27224480002,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 343.25
 	},
 	{
@@ -3055,6 +3193,7 @@
 		"hand_id" : 27213590405,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4829.37
 	},
 	{
@@ -3077,6 +3216,7 @@
 		"hand_id" : 27225230007,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 126.47
 	},
 	{
@@ -3099,6 +3239,7 @@
 		"hand_id" : 27213880127,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3525.48
 	},
 	{
@@ -3121,6 +3262,7 @@
 		"hand_id" : 27224030038,
 		"noOfUser" : 8,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7282.22
 	},
 	{
@@ -3143,6 +3285,7 @@
 		"hand_id" : 27221260007,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -150.39,
+		"EVCHOP_FEE" : 4.51,
 		"remaining_pot_after_rake" : 840.00
 	},
 	{
@@ -3165,6 +3308,7 @@
 		"hand_id" : 27214500313,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 270.91
 	},
 	{
@@ -3187,6 +3331,7 @@
 		"hand_id" : 8791330048,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 25.66,
+		"EVCHOP_FEE" : 0.39,
 		"remaining_pot_after_rake" : 64.40
 	},
 	{
@@ -3209,6 +3354,7 @@
 		"hand_id" : 27214730338,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 16.64,
+		"EVCHOP_FEE" : 2.17,
 		"remaining_pot_after_rake" : 105.68
 	},
 	{
@@ -3231,6 +3377,7 @@
 		"hand_id" : 8791400012,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -3253,6 +3400,7 @@
 		"hand_id" : 27214430346,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 9491.33
 	},
 	{
@@ -3275,6 +3423,7 @@
 		"hand_id" : 27217180273,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1786.20
 	},
 	{
@@ -3297,6 +3446,7 @@
 		"hand_id" : 27222520096,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 253.17
 	},
 	{
@@ -3319,6 +3469,7 @@
 		"hand_id" : 27213930389,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 528.07
 	},
 	{
@@ -3341,6 +3492,7 @@
 		"hand_id" : 8791330085,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -3363,6 +3515,7 @@
 		"hand_id" : 27214510374,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 554.99,
+		"EVCHOP_FEE" : 27.32,
 		"remaining_pot_after_rake" : 2020.68
 	},
 	{
@@ -3385,6 +3538,7 @@
 		"hand_id" : 27217180286,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 492.71
 	},
 	{
@@ -3407,6 +3561,7 @@
 		"hand_id" : 27223040115,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 1518.08,
+		"EVCHOP_FEE" : 13.40,
 		"remaining_pot_after_rake" : 3482.72
 	},
 	{
@@ -3429,6 +3584,7 @@
 		"hand_id" : 27225500025,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2293.02
 	},
 	{
@@ -3451,6 +3607,7 @@
 		"hand_id" : 27219610240,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 122.48
 	},
 	{
@@ -3473,6 +3630,7 @@
 		"hand_id" : 27214680392,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 358.48,
+		"EVCHOP_FEE" : 3.94,
 		"remaining_pot_after_rake" : 848.34
 	},
 	{
@@ -3495,6 +3653,7 @@
 		"hand_id" : 27215220387,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 447.10,
+		"EVCHOP_FEE" : 19.62,
 		"remaining_pot_after_rake" : 1548.05
 	},
 	{
@@ -3517,6 +3676,7 @@
 		"hand_id" : 27213050402,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 895.28
 	},
 	{
@@ -3539,6 +3699,7 @@
 		"hand_id" : 27224240084,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 315.00,
+		"EVCHOP_FEE" : 20.31,
 		"remaining_pot_after_rake" : 2299.31
 	},
 	{
@@ -3561,6 +3722,7 @@
 		"hand_id" : 8791240174,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.74
 	},
 	{
@@ -3583,6 +3745,7 @@
 		"hand_id" : 27226280028,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3271.86
 	},
 	{
@@ -3605,6 +3768,7 @@
 		"hand_id" : 27213610399,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 896.27
 	},
 	{
@@ -3627,6 +3791,7 @@
 		"hand_id" : 27225890029,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1126.17
 	},
 	{
@@ -3649,6 +3814,7 @@
 		"hand_id" : 27219660206,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 33.91,
+		"EVCHOP_FEE" : 4.31,
 		"remaining_pot_after_rake" : 211.63
 	},
 	{
@@ -3671,6 +3837,7 @@
 		"hand_id" : 27223950120,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 660.73
 	},
 	{
@@ -3693,6 +3860,7 @@
 		"hand_id" : 27214500358,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 150.81,
+		"EVCHOP_FEE" : 4.38,
 		"remaining_pot_after_rake" : 447.67
 	},
 	{
@@ -3715,6 +3883,7 @@
 		"hand_id" : 27225230079,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -46.36,
+		"EVCHOP_FEE" : 2.85,
 		"remaining_pot_after_rake" : 48.58
 	},
 	{
@@ -3737,6 +3906,7 @@
 		"hand_id" : 27225150069,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 27.28,
+		"EVCHOP_FEE" : 2.14,
 		"remaining_pot_after_rake" : 125.87
 	},
 	{
@@ -3759,6 +3929,7 @@
 		"hand_id" : 27216470322,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 282.83
 	},
 	{
@@ -3781,6 +3952,7 @@
 		"hand_id" : 8791400113,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -10.47,
+		"EVCHOP_FEE" : 0.31,
 		"remaining_pot_after_rake" : 19.27
 	},
 	{
@@ -3803,6 +3975,7 @@
 		"hand_id" : 27220110218,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -1486.88,
+		"EVCHOP_FEE" : 44.61,
 		"remaining_pot_after_rake" : 7527.91
 	},
 	{
@@ -3825,6 +3998,7 @@
 		"hand_id" : 27214510416,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 870.96
 	},
 	{
@@ -3847,6 +4021,7 @@
 		"hand_id" : 8791400116,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : -6.24,
+		"EVCHOP_FEE" : 0.19,
 		"remaining_pot_after_rake" : 22.50
 	},
 	{
@@ -3869,6 +4044,7 @@
 		"hand_id" : 27224300101,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 27.52,
+		"EVCHOP_FEE" : 2.39,
 		"remaining_pot_after_rake" : 134.78
 	},
 	{
@@ -3891,6 +4067,7 @@
 		"hand_id" : 8791240231,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 19.18,
+		"EVCHOP_FEE" : 0.30,
 		"remaining_pot_after_rake" : 48.42
 	},
 	{
@@ -3913,6 +4090,7 @@
 		"hand_id" : 27227560006,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2663.51
 	},
 	{
@@ -3935,6 +4113,7 @@
 		"hand_id" : 27225330099,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 18538.06
 	},
 	{
@@ -3957,6 +4136,7 @@
 		"hand_id" : 27215310415,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1681.60
 	},
 	{
@@ -3979,6 +4159,7 @@
 		"hand_id" : 27220230235,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 245.65
 	},
 	{
@@ -4001,6 +4182,7 @@
 		"hand_id" : 27222390177,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1422.52
 	},
 	{
@@ -4023,6 +4205,7 @@
 		"hand_id" : 27224300115,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 170.96,
+		"EVCHOP_FEE" : 1.39,
 		"remaining_pot_after_rake" : 388.35
 	},
 	{
@@ -4045,6 +4228,7 @@
 		"hand_id" : 27225860078,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -3339.66,
+		"EVCHOP_FEE" : 100.19,
 		"remaining_pot_after_rake" : 8638.62
 	},
 	{
@@ -4067,6 +4251,7 @@
 		"hand_id" : 8791240270,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.74
 	},
 	{
@@ -4089,6 +4274,7 @@
 		"hand_id" : 27216210399,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 204.04
 	},
 	{
@@ -4111,6 +4297,7 @@
 		"hand_id" : 8791480134,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.24
 	},
 	{
@@ -4133,6 +4320,7 @@
 		"hand_id" : 27216910341,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 199.15
 	},
 	{
@@ -4155,6 +4343,7 @@
 		"hand_id" : 27227390040,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1964.62
 	},
 	{
@@ -4177,6 +4366,7 @@
 		"hand_id" : 27224060126,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 347.43
 	},
 	{
@@ -4199,6 +4389,7 @@
 		"hand_id" : 27221910183,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -76.30,
+		"EVCHOP_FEE" : 2.29,
 		"remaining_pot_after_rake" : 234.43
 	},
 	{
@@ -4221,6 +4412,7 @@
 		"hand_id" : 27220110253,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5492.80
 	},
 	{
@@ -4243,6 +4435,7 @@
 		"hand_id" : 27225730094,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 313.67
 	},
 	{
@@ -4265,6 +4458,7 @@
 		"hand_id" : 27215310450,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1729.00
 	},
 	{
@@ -4287,6 +4481,7 @@
 		"hand_id" : 27227170042,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 252.22
 	},
 	{
@@ -4309,6 +4504,7 @@
 		"hand_id" : 27214500419,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 378.35
 	},
 	{
@@ -4331,6 +4527,7 @@
 		"hand_id" : 27228230031,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3870.85
 	},
 	{
@@ -4353,6 +4550,7 @@
 		"hand_id" : 27220230270,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 196.46
 	},
 	{
@@ -4375,6 +4573,7 @@
 		"hand_id" : 27224450063,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 188.87
 	},
 	{
@@ -4397,6 +4596,7 @@
 		"hand_id" : 27227630009,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 65328.34
 	},
 	{
@@ -4419,6 +4619,7 @@
 		"hand_id" : 27227380067,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 337.40,
+		"EVCHOP_FEE" : 31.98,
 		"remaining_pot_after_rake" : 1740.88
 	},
 	{
@@ -4441,6 +4642,7 @@
 		"hand_id" : 27226370085,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 9657.50
 	},
 	{
@@ -4463,6 +4665,7 @@
 		"hand_id" : 27228410010,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2524.38
 	},
 	{
@@ -4485,6 +4688,7 @@
 		"hand_id" : 27214090461,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -7.84,
+		"EVCHOP_FEE" : 0.24,
 		"remaining_pot_after_rake" : 257.19
 	},
 	{
@@ -4507,6 +4711,7 @@
 		"hand_id" : 27227520035,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -981.14,
+		"EVCHOP_FEE" : 29.43,
 		"remaining_pot_after_rake" : 5454.75
 	},
 	{
@@ -4529,6 +4734,7 @@
 		"hand_id" : 27215040409,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 302.87
 	},
 	{
@@ -4551,6 +4757,7 @@
 		"hand_id" : 27228740004,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 263.30
 	},
 	{
@@ -4573,6 +4780,7 @@
 		"hand_id" : 8791480190,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.24
 	},
 	{
@@ -4595,6 +4803,7 @@
 		"hand_id" : 27223000232,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 113.17
 	},
 	{
@@ -4617,6 +4826,7 @@
 		"hand_id" : 27224060152,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 222.40
 	},
 	{
@@ -4639,6 +4849,7 @@
 		"hand_id" : 8791980048,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -4661,6 +4872,7 @@
 		"hand_id" : 27228230076,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5602.06
 	},
 	{
@@ -4683,6 +4895,7 @@
 		"hand_id" : 27213540448,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 113.63
 	},
 	{
@@ -4705,6 +4918,7 @@
 		"hand_id" : 27221470224,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 378.78
 	},
 	{
@@ -4727,6 +4941,7 @@
 		"hand_id" : 27220110317,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 10219.08
 	},
 	{
@@ -4749,6 +4964,7 @@
 		"hand_id" : 27224480168,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 987.22
 	},
 	{
@@ -4771,6 +4987,7 @@
 		"hand_id" : 27228730031,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -1367.51,
+		"EVCHOP_FEE" : 41.03,
 		"remaining_pot_after_rake" : 6907.96
 	},
 	{
@@ -4793,6 +5010,7 @@
 		"hand_id" : 27225670006,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3163.19
 	},
 	{
@@ -4815,6 +5033,7 @@
 		"hand_id" : 27229660009,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2678.39
 	},
 	{
@@ -4837,6 +5056,7 @@
 		"hand_id" : 27221910243,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 68.84,
+		"EVCHOP_FEE" : 2.77,
 		"remaining_pot_after_rake" : 229.87
 	},
 	{
@@ -4859,6 +5079,7 @@
 		"hand_id" : 27217390396,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1915.60
 	},
 	{
@@ -4881,6 +5102,7 @@
 		"hand_id" : 27228730046,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5102.50
 	},
 	{
@@ -4903,6 +5125,7 @@
 		"hand_id" : 27225150180,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -25.55,
+		"EVCHOP_FEE" : 0.77,
 		"remaining_pot_after_rake" : 81.77
 	},
 	{
@@ -4925,6 +5148,7 @@
 		"hand_id" : 27229870005,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 161.26,
+		"EVCHOP_FEE" : 0.93,
 		"remaining_pot_after_rake" : 353.60
 	},
 	{
@@ -4947,6 +5171,7 @@
 		"hand_id" : 27230090008,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3521.92
 	},
 	{
@@ -4969,6 +5194,7 @@
 		"hand_id" : 27228440069,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3498.84
 	},
 	{
@@ -4991,6 +5217,7 @@
 		"hand_id" : 8792470055,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.74
 	},
 	{
@@ -5013,6 +5240,7 @@
 		"hand_id" : 27220110361,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 9269.42
 	},
 	{
@@ -5035,6 +5263,7 @@
 		"hand_id" : 27221470265,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 395.31
 	},
 	{
@@ -5057,6 +5286,7 @@
 		"hand_id" : 27225150198,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 24.08,
+		"EVCHOP_FEE" : 5.78,
 		"remaining_pot_after_rake" : 240.70
 	},
 	{
@@ -5079,6 +5309,7 @@
 		"hand_id" : 27229840039,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4732.05
 	},
 	{
@@ -5101,6 +5332,7 @@
 		"hand_id" : 27228440082,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2459.42
 	},
 	{
@@ -5123,6 +5355,7 @@
 		"hand_id" : 27229550047,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 482.01
 	},
 	{
@@ -5145,6 +5378,7 @@
 		"hand_id" : 27228920056,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 232.64
 	},
 	{
@@ -5167,6 +5401,7 @@
 		"hand_id" : 27225260147,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 100.79,
+		"EVCHOP_FEE" : 5.33,
 		"remaining_pot_after_rake" : 379.21
 	},
 	{
@@ -5189,6 +5424,7 @@
 		"hand_id" : 27224300210,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 152.19,
+		"EVCHOP_FEE" : 5.70,
 		"remaining_pot_after_rake" : 494.28
 	},
 	{
@@ -5211,6 +5447,7 @@
 		"hand_id" : 27219610417,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -24.91,
+		"EVCHOP_FEE" : 0.75,
 		"remaining_pot_after_rake" : 110.19
 	},
 	{
@@ -5233,6 +5470,7 @@
 		"hand_id" : 8792720011,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -5255,6 +5493,7 @@
 		"hand_id" : 27229930053,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1820.13
 	},
 	{
@@ -5277,6 +5516,7 @@
 		"hand_id" : 27230170034,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3040.28
 	},
 	{
@@ -5299,6 +5539,7 @@
 		"hand_id" : 27229910030,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 6700.54,
+		"EVCHOP_FEE" : 313.04,
 		"remaining_pot_after_rake" : 23835.86
 	},
 	{
@@ -5321,6 +5562,7 @@
 		"hand_id" : 27224040248,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -145.15,
+		"EVCHOP_FEE" : 4.35,
 		"remaining_pot_after_rake" : 211.11
 	},
 	{
@@ -5343,6 +5585,7 @@
 		"hand_id" : 27222520245,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 76.28,
+		"EVCHOP_FEE" : 4.48,
 		"remaining_pot_after_rake" : 301.77
 	},
 	{
@@ -5365,6 +5608,7 @@
 		"hand_id" : 27228740063,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 82.81,
+		"EVCHOP_FEE" : 7.72,
 		"remaining_pot_after_rake" : 422.79
 	},
 	{
@@ -5387,6 +5631,7 @@
 		"hand_id" : 27220370308,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 185.70
 	},
 	{
@@ -5409,6 +5654,7 @@
 		"hand_id" : 27230750011,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 57696.12
 	},
 	{
@@ -5431,6 +5677,7 @@
 		"hand_id" : 27216910450,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 347.89
 	},
 	{
@@ -5453,6 +5700,7 @@
 		"hand_id" : 27229870056,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -12.64,
+		"EVCHOP_FEE" : 0.78,
 		"remaining_pot_after_rake" : 254.74
 	},
 	{
@@ -5475,6 +5723,7 @@
 		"hand_id" : 27225150238,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 26.80,
+		"EVCHOP_FEE" : 1.95,
 		"remaining_pot_after_rake" : 118.46
 	},
 	{
@@ -5497,6 +5746,7 @@
 		"hand_id" : 27225260178,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 74.65,
+		"EVCHOP_FEE" : 1.82,
 		"remaining_pot_after_rake" : 209.98
 	},
 	{
@@ -5519,6 +5769,7 @@
 		"hand_id" : 27221470312,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 113.42,
+		"EVCHOP_FEE" : 5.56,
 		"remaining_pot_after_rake" : 412.05
 	},
 	{
@@ -5541,6 +5792,7 @@
 		"hand_id" : 27229930082,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2352.71
 	},
 	{
@@ -5563,6 +5815,7 @@
 		"hand_id" : 27229040069,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 139.90
 	},
 	{
@@ -5585,6 +5838,7 @@
 		"hand_id" : 27228740083,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 176.72
 	},
 	{
@@ -5607,6 +5861,7 @@
 		"hand_id" : 27230430048,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4004.96
 	},
 	{
@@ -5629,6 +5884,7 @@
 		"hand_id" : 27227010161,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 95764.57
 	},
 	{
@@ -5651,6 +5907,7 @@
 		"hand_id" : 8792780064,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 21.32,
+		"EVCHOP_FEE" : 0.24,
 		"remaining_pot_after_rake" : 50.56
 	},
 	{
@@ -5673,6 +5930,7 @@
 		"hand_id" : 27225260193,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 259.04
 	},
 	{
@@ -5695,6 +5953,7 @@
 		"hand_id" : 27231640009,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 13310.66
 	},
 	{
@@ -5717,6 +5976,7 @@
 		"hand_id" : 8792780076,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.74
 	},
 	{
@@ -5739,6 +5999,7 @@
 		"hand_id" : 27225330295,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 9589.15
 	},
 	{
@@ -5761,6 +6022,7 @@
 		"hand_id" : 8792690047,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 6.34,
+		"EVCHOP_FEE" : 0.69,
 		"remaining_pot_after_rake" : 35.58
 	},
 	{
@@ -5783,6 +6045,7 @@
 		"hand_id" : 27231310030,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2973.51
 	},
 	{
@@ -5805,6 +6068,7 @@
 		"hand_id" : 8792780089,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.74
 	},
 	{
@@ -5827,6 +6091,7 @@
 		"hand_id" : 27230000085,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -79.86,
+		"EVCHOP_FEE" : 2.40,
 		"remaining_pot_after_rake" : 285.47
 	},
 	{
@@ -5849,6 +6114,7 @@
 		"hand_id" : 27227520174,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 3875.96,
+		"EVCHOP_FEE" : 161.70,
 		"remaining_pot_after_rake" : 13141.95
 	},
 	{
@@ -5871,6 +6137,7 @@
 		"hand_id" : 27213610604,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -67.53,
+		"EVCHOP_FEE" : 2.03,
 		"remaining_pot_after_rake" : 322.83
 	},
 	{
@@ -5893,6 +6160,7 @@
 		"hand_id" : 27229730121,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5482.18
 	},
 	{
@@ -5915,6 +6183,7 @@
 		"hand_id" : 27217520409,
 		"noOfUser" : 8,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1539.33
 	},
 	{
@@ -5937,6 +6206,7 @@
 		"hand_id" : 27225590220,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 195.20
 	},
 	{
@@ -5959,6 +6229,7 @@
 		"hand_id" : 27213610619,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 186.16
 	},
 	{
@@ -5981,6 +6252,7 @@
 		"hand_id" : 27219450111,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3363.97
 	},
 	{
@@ -6003,6 +6275,7 @@
 		"hand_id" : 27229010115,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -26.59,
+		"EVCHOP_FEE" : 0.80,
 		"remaining_pot_after_rake" : 361.70
 	},
 	{
@@ -6025,6 +6298,7 @@
 		"hand_id" : 27225670046,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 1883.50,
+		"EVCHOP_FEE" : 24.65,
 		"remaining_pot_after_rake" : 4588.51
 	},
 	{
@@ -6047,6 +6321,7 @@
 		"hand_id" : 27232820008,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 13226.88
 	},
 	{
@@ -6069,6 +6344,7 @@
 		"hand_id" : 27232820019,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 16846.85
 	},
 	{
@@ -6091,6 +6367,7 @@
 		"hand_id" : 27219610505,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 163.11,
+		"EVCHOP_FEE" : 2.56,
 		"remaining_pot_after_rake" : 411.70
 	},
 	{
@@ -6113,6 +6390,7 @@
 		"hand_id" : 27232580024,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1532.96
 	},
 	{
@@ -6135,6 +6413,7 @@
 		"hand_id" : 27225260240,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 90.99
 	},
 	{
@@ -6157,6 +6436,7 @@
 		"hand_id" : 8793130052,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 38.74
 	},
 	{
@@ -6179,6 +6459,7 @@
 		"hand_id" : 27231430064,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4318.42
 	},
 	{
@@ -6201,6 +6482,7 @@
 		"hand_id" : 8793130068,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -9.54,
+		"EVCHOP_FEE" : 0.29,
 		"remaining_pot_after_rake" : 19.20
 	},
 	{
@@ -6223,6 +6505,7 @@
 		"hand_id" : 27224060311,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 200.87
 	},
 	{
@@ -6245,6 +6528,7 @@
 		"hand_id" : 27225730285,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -2.91,
+		"EVCHOP_FEE" : 0.09,
 		"remaining_pot_after_rake" : 289.02
 	},
 	{
@@ -6267,6 +6551,7 @@
 		"hand_id" : 27226050309,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -1625.42,
+		"EVCHOP_FEE" : 48.76,
 		"remaining_pot_after_rake" : 2577.74
 	},
 	{
@@ -6289,6 +6574,7 @@
 		"hand_id" : 27225730294,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 81.77,
+		"EVCHOP_FEE" : 4.70,
 		"remaining_pot_after_rake" : 320.21
 	},
 	{
@@ -6311,6 +6597,7 @@
 		"hand_id" : 27224040344,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 62.32,
+		"EVCHOP_FEE" : 3.59,
 		"remaining_pot_after_rake" : 244.34
 	},
 	{
@@ -6333,6 +6620,7 @@
 		"hand_id" : 27227010270,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12083.31
 	},
 	{
@@ -6355,6 +6643,7 @@
 		"hand_id" : 27228960064,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1090.16
 	},
 	{
@@ -6377,6 +6666,7 @@
 		"hand_id" : 27231790091,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 202.01
 	},
 	{
@@ -6399,6 +6689,7 @@
 		"hand_id" : 27231700103,
 		"noOfUser" : 18,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3802.87
 	},
 	{
@@ -6421,6 +6712,7 @@
 		"hand_id" : 27225590297,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 324.66
 	},
 	{
@@ -6443,6 +6735,7 @@
 		"hand_id" : 27227560296,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4554.29
 	},
 	{
@@ -6465,6 +6758,7 @@
 		"hand_id" : 27233690016,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3262.01
 	},
 	{
@@ -6487,6 +6781,7 @@
 		"hand_id" : 27229780199,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 13883.11
 	},
 	{
@@ -6509,6 +6804,7 @@
 		"hand_id" : 27230430178,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4624.61
 	},
 	{
@@ -6531,6 +6827,7 @@
 		"hand_id" : 27234750034,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -370.65,
+		"EVCHOP_FEE" : 11.12,
 		"remaining_pot_after_rake" : 649.60
 	},
 	{
@@ -6553,6 +6850,7 @@
 		"hand_id" : 27234750037,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -256.70,
+		"EVCHOP_FEE" : 7.70,
 		"remaining_pot_after_rake" : 419.44
 	},
 	{
@@ -6575,6 +6873,7 @@
 		"hand_id" : 27220230500,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 617.35
 	},
 	{
@@ -6597,6 +6896,7 @@
 		"hand_id" : 27229550200,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 294.10,
+		"EVCHOP_FEE" : 1.47,
 		"remaining_pot_after_rake" : 637.15
 	},
 	{
@@ -6619,6 +6919,7 @@
 		"hand_id" : 27235640013,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4694.90
 	},
 	{
@@ -6641,6 +6942,7 @@
 		"hand_id" : 8793880019,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -6663,6 +6965,7 @@
 		"hand_id" : 27220020486,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 381.98
 	},
 	{
@@ -6685,6 +6988,7 @@
 		"hand_id" : 27233120102,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 264.11
 	},
 	{
@@ -6707,6 +7011,7 @@
 		"hand_id" : 27216470602,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -123.71,
+		"EVCHOP_FEE" : 3.71,
 		"remaining_pot_after_rake" : 265.08
 	},
 	{
@@ -6729,6 +7034,7 @@
 		"hand_id" : 27228740286,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 385.72
 	},
 	{
@@ -6751,6 +7057,7 @@
 		"hand_id" : 27229550233,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 239.65
 	},
 	{
@@ -6773,6 +7080,7 @@
 		"hand_id" : 27236080012,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 23025.43
 	},
 	{
@@ -6795,6 +7103,7 @@
 		"hand_id" : 27237100008,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2316.97
 	},
 	{
@@ -6817,6 +7126,7 @@
 		"hand_id" : 27220020509,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 182.23
 	},
 	{
@@ -6839,6 +7149,7 @@
 		"hand_id" : 27225590379,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 227.47,
+		"EVCHOP_FEE" : 1.56,
 		"remaining_pot_after_rake" : 506.78
 	},
 	{
@@ -6861,6 +7172,7 @@
 		"hand_id" : 27236240035,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 288.92
 	},
 	{
@@ -6883,6 +7195,7 @@
 		"hand_id" : 27230430252,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2622.46
 	},
 	{
@@ -6905,6 +7218,7 @@
 		"hand_id" : 27232580164,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2452.64
 	},
 	{
@@ -6927,6 +7241,7 @@
 		"hand_id" : 27221470503,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 373.46
 	},
 	{
@@ -6949,6 +7264,7 @@
 		"hand_id" : 27237170031,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 277.57
 	},
 	{
@@ -6971,6 +7287,7 @@
 		"hand_id" : 8794050017,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -4.95,
+		"EVCHOP_FEE" : 0.15,
 		"remaining_pot_after_rake" : 23.79
 	},
 	{
@@ -6993,6 +7310,7 @@
 		"hand_id" : 27235010096,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6452.04
 	},
 	{
@@ -7015,6 +7333,7 @@
 		"hand_id" : 8794240034,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -11.40,
+		"EVCHOP_FEE" : 0.34,
 		"remaining_pot_after_rake" : 27.34
 	},
 	{
@@ -7037,6 +7356,7 @@
 		"hand_id" : 27236730070,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1296.61
 	},
 	{
@@ -7059,6 +7379,7 @@
 		"hand_id" : 27229310369,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1370.85
 	},
 	{
@@ -7081,6 +7402,7 @@
 		"hand_id" : 27238020027,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 57.89,
+		"EVCHOP_FEE" : 5.85,
 		"remaining_pot_after_rake" : 310.90
 	},
 	{
@@ -7103,6 +7425,7 @@
 		"hand_id" : 27219810638,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 164.51
 	},
 	{
@@ -7125,6 +7448,7 @@
 		"hand_id" : 27230940259,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2229.91
 	},
 	{
@@ -7147,6 +7471,7 @@
 		"hand_id" : 27237830015,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1779.23
 	},
 	{
@@ -7169,6 +7494,7 @@
 		"hand_id" : 27237950058,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -50.60,
+		"EVCHOP_FEE" : 1.52,
 		"remaining_pot_after_rake" : 57.04
 	},
 	{
@@ -7191,6 +7517,7 @@
 		"hand_id" : 27236900084,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2335.10
 	},
 	{
@@ -7213,6 +7540,7 @@
 		"hand_id" : 27217520635,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3510.09
 	},
 	{
@@ -7235,6 +7563,7 @@
 		"hand_id" : 27228080369,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -51.08,
+		"EVCHOP_FEE" : 1.53,
 		"remaining_pot_after_rake" : 138.38
 	},
 	{
@@ -7257,6 +7586,7 @@
 		"hand_id" : 27228960227,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -129.35,
+		"EVCHOP_FEE" : 3.88,
 		"remaining_pot_after_rake" : 517.18
 	},
 	{
@@ -7279,6 +7609,7 @@
 		"hand_id" : 27229510358,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 178.87
 	},
 	{
@@ -7301,6 +7632,7 @@
 		"hand_id" : 27239060056,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 291.80,
+		"EVCHOP_FEE" : 23.35,
 		"remaining_pot_after_rake" : 1361.84
 	},
 	{
@@ -7323,6 +7655,7 @@
 		"hand_id" : 27233120226,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -29.64,
+		"EVCHOP_FEE" : 0.89,
 		"remaining_pot_after_rake" : 57.72
 	},
 	{
@@ -7345,6 +7678,7 @@
 		"hand_id" : 27232580242,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1489.87
 	},
 	{
@@ -7367,6 +7701,7 @@
 		"hand_id" : 27237880008,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 15105.89
 	},
 	{
@@ -7389,6 +7724,7 @@
 		"hand_id" : 27239300021,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2122.96
 	},
 	{
@@ -7411,6 +7747,7 @@
 		"hand_id" : 27240280018,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 90.17
 	},
 	{
@@ -7433,6 +7770,7 @@
 		"hand_id" : 27239300027,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2362.28
 	},
 	{
@@ -7455,6 +7793,7 @@
 		"hand_id" : 27238030011,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 4222.53,
+		"EVCHOP_FEE" : 205.81,
 		"remaining_pot_after_rake" : 15305.28
 	},
 	{
@@ -7477,6 +7816,7 @@
 		"hand_id" : 8794050194,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -7499,6 +7839,7 @@
 		"hand_id" : 27238880061,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6210.28
 	},
 	{
@@ -7521,6 +7862,7 @@
 		"hand_id" : 27234750188,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1692.10
 	},
 	{
@@ -7543,6 +7885,7 @@
 		"hand_id" : 8795180011,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 17.51,
+		"EVCHOP_FEE" : 0.64,
 		"remaining_pot_after_rake" : 56.25
 	},
 	{
@@ -7565,6 +7908,7 @@
 		"hand_id" : 8794050207,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 8.34,
+		"EVCHOP_FEE" : 0.62,
 		"remaining_pot_after_rake" : 37.08
 	},
 	{
@@ -7587,6 +7931,7 @@
 		"hand_id" : 8795120028,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -7609,6 +7954,7 @@
 		"hand_id" : 27233090305,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7819.88
 	},
 	{
@@ -7631,6 +7977,7 @@
 		"hand_id" : 27228960264,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 604.46
 	},
 	{
@@ -7653,6 +8000,7 @@
 		"hand_id" : 27217520679,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1162.12
 	},
 	{
@@ -7675,6 +8023,7 @@
 		"hand_id" : 27236890161,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3835.79
 	},
 	{
@@ -7697,6 +8046,7 @@
 		"hand_id" : 27219810727,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 172.25
 	},
 	{
@@ -7719,6 +8069,7 @@
 		"hand_id" : 27233200281,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6663.42
 	},
 	{
@@ -7741,6 +8092,7 @@
 		"hand_id" : 27238330104,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 182.96
 	},
 	{
@@ -7763,6 +8115,7 @@
 		"hand_id" : 27240860018,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 1871.26,
+		"EVCHOP_FEE" : 267.61,
 		"remaining_pot_after_rake" : 12662.84
 	},
 	{
@@ -7785,6 +8138,7 @@
 		"hand_id" : 27231660338,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -90.42,
+		"EVCHOP_FEE" : 2.71,
 		"remaining_pot_after_rake" : 2624.80
 	},
 	{
@@ -7807,6 +8161,7 @@
 		"hand_id" : 27242370008,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 582.63,
+		"EVCHOP_FEE" : 285.98,
 		"remaining_pot_after_rake" : 10697.77
 	},
 	{
@@ -7829,6 +8184,7 @@
 		"hand_id" : 27242140014,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3985.60
 	},
 	{
@@ -7851,6 +8207,7 @@
 		"hand_id" : 27236960235,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3281.67
 	},
 	{
@@ -7873,6 +8230,7 @@
 		"hand_id" : 27233200314,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3503.54
 	},
 	{
@@ -7895,6 +8253,7 @@
 		"hand_id" : 27241870047,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 20474.56
 	},
 	{
@@ -7917,6 +8276,7 @@
 		"hand_id" : 27242010014,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3125.92
 	},
 	{
@@ -7939,6 +8299,7 @@
 		"hand_id" : 27231430404,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6783.76
 	},
 	{
@@ -7961,6 +8322,7 @@
 		"hand_id" : 27242140046,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 5867.20,
+		"EVCHOP_FEE" : 88.15,
 		"remaining_pot_after_rake" : 14672.84
 	},
 	{
@@ -7983,6 +8345,7 @@
 		"hand_id" : 27239840147,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 98.51
 	},
 	{
@@ -8005,6 +8368,7 @@
 		"hand_id" : 27241980078,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2651.52
 	},
 	{
@@ -8027,6 +8391,7 @@
 		"hand_id" : 27244620007,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 85.72,
+		"EVCHOP_FEE" : 4.06,
 		"remaining_pot_after_rake" : 306.76
 	},
 	{
@@ -8049,6 +8414,7 @@
 		"hand_id" : 27243960024,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 8167.24
 	},
 	{
@@ -8071,6 +8437,7 @@
 		"hand_id" : 27242350061,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 69.59,
+		"EVCHOP_FEE" : 5.55,
 		"remaining_pot_after_rake" : 324.12
 	},
 	{
@@ -8093,6 +8460,7 @@
 		"hand_id" : 27230650511,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -1678.76,
+		"EVCHOP_FEE" : 50.36,
 		"remaining_pot_after_rake" : 6673.27
 	},
 	{
@@ -8115,6 +8483,7 @@
 		"hand_id" : 27236830242,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 302.81
 	},
 	{
@@ -8137,6 +8506,7 @@
 		"hand_id" : 27238020193,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 145.48
 	},
 	{
@@ -8159,6 +8529,7 @@
 		"hand_id" : 27241950099,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 22460.19
 	},
 	{
@@ -8181,6 +8552,7 @@
 		"hand_id" : 27242150116,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 761.72,
+		"EVCHOP_FEE" : 322.34,
 		"remaining_pot_after_rake" : 12268.06
 	},
 	{
@@ -8203,6 +8575,7 @@
 		"hand_id" : 27234680062,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2342.83
 	},
 	{
@@ -8225,6 +8598,7 @@
 		"hand_id" : 27244700033,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12841.91
 	},
 	{
@@ -8247,6 +8621,7 @@
 		"hand_id" : 27240980150,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 11366.67
 	},
 	{
@@ -8269,6 +8644,7 @@
 		"hand_id" : 27236830272,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 637.44
 	},
 	{
@@ -8291,6 +8667,7 @@
 		"hand_id" : 27242280108,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 2083.05,
+		"EVCHOP_FEE" : 108.95,
 		"remaining_pot_after_rake" : 7797.87
 	},
 	{
@@ -8313,6 +8690,7 @@
 		"hand_id" : 27243470117,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 37466.00
 	},
 	{
@@ -8335,6 +8713,7 @@
 		"hand_id" : 27245830020,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7141.91
 	},
 	{
@@ -8357,6 +8736,7 @@
 		"hand_id" : 27238030160,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 5422.48,
+		"EVCHOP_FEE" : 163.33,
 		"remaining_pot_after_rake" : 16289.17
 	},
 	{
@@ -8379,6 +8759,7 @@
 		"hand_id" : 27243680073,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6178.66
 	},
 	{
@@ -8401,6 +8782,7 @@
 		"hand_id" : 27243520115,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3833.72
 	},
 	{
@@ -8423,6 +8805,7 @@
 		"hand_id" : 27242140133,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 3902.73,
+		"EVCHOP_FEE" : 497.52,
 		"remaining_pot_after_rake" : 24389.46
 	},
 	{
@@ -8445,6 +8828,7 @@
 		"hand_id" : 27238650276,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5713.99
 	},
 	{
@@ -8467,6 +8851,7 @@
 		"hand_id" : 27233090451,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7354.99
 	},
 	{
@@ -8489,6 +8874,7 @@
 		"hand_id" : 27242140141,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4031.26
 	},
 	{
@@ -8511,6 +8897,7 @@
 		"hand_id" : 27247360015,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5010.81
 	},
 	{
@@ -8533,6 +8920,7 @@
 		"hand_id" : 27235440377,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 8111.51
 	},
 	{
@@ -8555,6 +8943,7 @@
 		"hand_id" : 8796440133,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -10.30,
+		"EVCHOP_FEE" : 0.31,
 		"remaining_pot_after_rake" : 28.44
 	},
 	{
@@ -8577,6 +8966,7 @@
 		"hand_id" : 27247230027,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 19695.92
 	},
 	{
@@ -8599,6 +8989,7 @@
 		"hand_id" : 27247320032,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 8750.75
 	},
 	{
@@ -8621,6 +9012,7 @@
 		"hand_id" : 8796250225,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -7.23,
+		"EVCHOP_FEE" : 0.22,
 		"remaining_pot_after_rake" : 21.51
 	},
 	{
@@ -8643,6 +9035,7 @@
 		"hand_id" : 27247360069,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6235.54
 	},
 	{
@@ -8665,6 +9058,7 @@
 		"hand_id" : 27233090498,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6467.30
 	},
 	{
@@ -8687,6 +9081,7 @@
 		"hand_id" : 27248530016,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3554.08
 	},
 	{
@@ -8709,6 +9104,7 @@
 		"hand_id" : 27244710001,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3746.40
 	},
 	{
@@ -8731,6 +9127,7 @@
 		"hand_id" : 27233090520,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5302.36
 	},
 	{
@@ -8753,6 +9150,7 @@
 		"hand_id" : 27241980330,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2385.17
 	},
 	{
@@ -8775,6 +9173,7 @@
 		"hand_id" : 27243280274,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 2310.56,
+		"EVCHOP_FEE" : 104.41,
 		"remaining_pot_after_rake" : 8101.43
 	},
 	{
@@ -8797,6 +9196,7 @@
 		"hand_id" : 27234580556,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 24316.16
 	},
 	{
@@ -8819,6 +9219,7 @@
 		"hand_id" : 27245810152,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3490.36
 	},
 	{
@@ -8841,6 +9242,7 @@
 		"hand_id" : 27235420507,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 20560.61
 	},
 	{
@@ -8863,6 +9265,7 @@
 		"hand_id" : 27243280320,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5978.59
 	},
 	{
@@ -8885,6 +9288,7 @@
 		"hand_id" : 27248570128,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3363.12
 	},
 	{
@@ -8907,6 +9311,7 @@
 		"hand_id" : 27237690607,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 25310.59
 	},
 	{
@@ -8929,6 +9334,7 @@
 		"hand_id" : 27250910068,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12563.28
 	},
 	{
@@ -8951,6 +9357,7 @@
 		"hand_id" : 27247200180,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 15003.82
 	},
 	{
@@ -8973,6 +9380,7 @@
 		"hand_id" : 27245860345,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 71319.60
 	},
 	{
@@ -8995,6 +9403,7 @@
 		"hand_id" : 27241980487,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6998.69
 	},
 	{
@@ -9017,6 +9426,7 @@
 		"hand_id" : 27243620447,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12074.99
 	},
 	{
@@ -9039,6 +9449,7 @@
 		"hand_id" : 8796151069,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1540.40
 	},
 	{
@@ -9061,6 +9472,7 @@
 		"hand_id" : 27250370215,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 3404.58,
+		"EVCHOP_FEE" : 91.07,
 		"remaining_pot_after_rake" : 9844.76
 	},
 	{
@@ -9083,6 +9495,7 @@
 		"hand_id" : 27249830341,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6685.86
 	},
 	{
@@ -9105,6 +9518,7 @@
 		"hand_id" : 8798010159,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 102.93,
+		"EVCHOP_FEE" : 1.22,
 		"remaining_pot_after_rake" : 246.65
 	},
 	{
@@ -9127,6 +9541,7 @@
 		"hand_id" : 27253450063,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6258.28
 	},
 	{
@@ -9149,6 +9564,7 @@
 		"hand_id" : 27252190050,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 18152.39
 	},
 	{
@@ -9171,6 +9587,7 @@
 		"hand_id" : 27241980677,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7476.23
 	},
 	{
@@ -9193,6 +9610,7 @@
 		"hand_id" : 27241980704,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3908.68
 	},
 	{
@@ -9215,6 +9633,7 @@
 		"hand_id" : 27259230001,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2784.80
 	},
 	{
@@ -9237,6 +9656,7 @@
 		"hand_id" : 27256020023,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3827.86
 	},
 	{
@@ -9259,6 +9679,7 @@
 		"hand_id" : 27258620073,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 13422.05
 	},
 	{
@@ -9281,6 +9702,7 @@
 		"hand_id" : 27255390162,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2948.45
 	},
 	{
@@ -9303,6 +9725,7 @@
 		"hand_id" : 8799350043,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -130.63,
+		"EVCHOP_FEE" : 3.92,
 		"remaining_pot_after_rake" : 639.57
 	},
 	{
@@ -9325,6 +9748,7 @@
 		"hand_id" : 27259230053,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6958.72
 	},
 	{
@@ -9347,6 +9771,7 @@
 		"hand_id" : 27259730075,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29540.11
 	},
 	{
@@ -9369,6 +9794,7 @@
 		"hand_id" : 27256020076,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 864.86,
+		"EVCHOP_FEE" : 47.83,
 		"remaining_pot_after_rake" : 3323.94
 	},
 	{
@@ -9391,6 +9817,7 @@
 		"hand_id" : 27256430053,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12712.75
 	},
 	{
@@ -9413,6 +9840,7 @@
 		"hand_id" : 27261170004,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 20778.04
 	},
 	{
@@ -9435,6 +9863,7 @@
 		"hand_id" : 27259350141,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 19018.88
 	},
 	{
@@ -9457,6 +9886,7 @@
 		"hand_id" : 8799010155,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 38.74
 	},
 	{
@@ -9479,6 +9909,7 @@
 		"hand_id" : 27259530097,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2629.30
 	},
 	{
@@ -9501,6 +9932,7 @@
 		"hand_id" : 8799010181,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -9523,6 +9955,7 @@
 		"hand_id" : 27251730194,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2626.09
 	},
 	{
@@ -9545,6 +9978,7 @@
 		"hand_id" : 27262240018,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 13090.06
 	},
 	{
@@ -9567,6 +10001,7 @@
 		"hand_id" : 27259350179,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 8515.00
 	},
 	{
@@ -9589,6 +10024,7 @@
 		"hand_id" : 8799010256,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -5.78,
+		"EVCHOP_FEE" : 0.17,
 		"remaining_pot_after_rake" : 23.96
 	},
 	{
@@ -9611,6 +10047,7 @@
 		"hand_id" : 8799980147,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 97.27,
+		"EVCHOP_FEE" : 1.39,
 		"remaining_pot_after_rake" : 240.99
 	},
 	{
@@ -9633,6 +10070,7 @@
 		"hand_id" : 27263480003,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 6000.11,
+		"EVCHOP_FEE" : 131.04,
 		"remaining_pot_after_rake" : 16368.37
 	},
 	{
@@ -9655,6 +10093,7 @@
 		"hand_id" : 27263610017,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 24276.89
 	},
 	{
@@ -9677,6 +10116,7 @@
 		"hand_id" : 27264600009,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 8028.30
 	},
 	{
@@ -9699,6 +10139,7 @@
 		"hand_id" : 8799010357,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.74
 	},
 	{
@@ -9721,6 +10162,7 @@
 		"hand_id" : 27264570035,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 11683.49
 	},
 	{
@@ -9743,6 +10185,7 @@
 		"hand_id" : 27260850131,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 56038.18
 	},
 	{
@@ -9765,6 +10208,7 @@
 		"hand_id" : 27264640038,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2106.54
 	},
 	{
@@ -9787,6 +10231,7 @@
 		"hand_id" : 27264130075,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 8.61,
+		"EVCHOP_FEE" : 6.29,
 		"remaining_pot_after_rake" : 227.02
 	},
 	{
@@ -9809,6 +10254,7 @@
 		"hand_id" : 27262280130,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 484.97
 	},
 	{
@@ -9831,6 +10277,7 @@
 		"hand_id" : 27265690015,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 139.94
 	},
 	{
@@ -9853,6 +10300,7 @@
 		"hand_id" : 27263490121,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4644.11
 	},
 	{
@@ -9875,6 +10323,7 @@
 		"hand_id" : 27265250040,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 110.67
 	},
 	{
@@ -9897,6 +10346,7 @@
 		"hand_id" : 27265540022,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4616.57
 	},
 	{
@@ -9919,6 +10369,7 @@
 		"hand_id" : 27258930233,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1823.68
 	},
 	{
@@ -9941,6 +10392,7 @@
 		"hand_id" : 27260290246,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 11517.48
 	},
 	{
@@ -9963,6 +10415,7 @@
 		"hand_id" : 27252080616,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 146.55
 	},
 	{
@@ -9985,6 +10438,7 @@
 		"hand_id" : 27265250047,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 361.57
 	},
 	{
@@ -10007,6 +10461,7 @@
 		"hand_id" : 27263230126,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 9102.94
 	},
 	{
@@ -10029,6 +10484,7 @@
 		"hand_id" : 8800740083,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -30.41,
+		"EVCHOP_FEE" : 0.91,
 		"remaining_pot_after_rake" : 113.31
 	},
 	{
@@ -10051,6 +10507,7 @@
 		"hand_id" : 27265040078,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 332.55
 	},
 	{
@@ -10073,6 +10530,7 @@
 		"hand_id" : 27263030141,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 17056.17
 	},
 	{
@@ -10095,6 +10553,7 @@
 		"hand_id" : 27262090186,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 623.51
 	},
 	{
@@ -10117,6 +10576,7 @@
 		"hand_id" : 27257740399,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 294.61
 	},
 	{
@@ -10139,6 +10599,7 @@
 		"hand_id" : 27262740147,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2832.23
 	},
 	{
@@ -10161,6 +10622,7 @@
 		"hand_id" : 27265040082,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 215.64
 	},
 	{
@@ -10183,6 +10645,7 @@
 		"hand_id" : 27265800015,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -22.86,
+		"EVCHOP_FEE" : 0.69,
 		"remaining_pot_after_rake" : 103.23
 	},
 	{
@@ -10205,6 +10668,7 @@
 		"hand_id" : 27266100024,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -1.32,
+		"EVCHOP_FEE" : 0.04,
 		"remaining_pot_after_rake" : 534.85
 	},
 	{
@@ -10227,6 +10691,7 @@
 		"hand_id" : 27257150032,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 10962.90
 	},
 	{
@@ -10249,6 +10714,7 @@
 		"hand_id" : 27266740005,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 216.86,
+		"EVCHOP_FEE" : 3.62,
 		"remaining_pot_after_rake" : 554.48
 	},
 	{
@@ -10271,6 +10737,7 @@
 		"hand_id" : 27266750020,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 14643.70
 	},
 	{
@@ -10293,6 +10760,7 @@
 		"hand_id" : 27262760118,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 372.70
 	},
 	{
@@ -10315,6 +10783,7 @@
 		"hand_id" : 27266750026,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -3208.41,
+		"EVCHOP_FEE" : 96.25,
 		"remaining_pot_after_rake" : 18348.24
 	},
 	{
@@ -10337,6 +10806,7 @@
 		"hand_id" : 27266530012,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2615.05
 	},
 	{
@@ -10359,6 +10829,7 @@
 		"hand_id" : 27261800204,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 500.87
 	},
 	{
@@ -10381,6 +10852,7 @@
 		"hand_id" : 27261800210,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 783.18
 	},
 	{
@@ -10403,6 +10875,7 @@
 		"hand_id" : 27263640125,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 455.26,
+		"EVCHOP_FEE" : 16.94,
 		"remaining_pot_after_rake" : 1475.33
 	},
 	{
@@ -10425,6 +10898,7 @@
 		"hand_id" : 27263630171,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2297.30
 	},
 	{
@@ -10447,6 +10921,7 @@
 		"hand_id" : 27266750049,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -1837.14,
+		"EVCHOP_FEE" : 55.11,
 		"remaining_pot_after_rake" : 9358.13
 	},
 	{
@@ -10469,6 +10944,7 @@
 		"hand_id" : 27263290162,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 510.91,
+		"EVCHOP_FEE" : 5.60,
 		"remaining_pot_after_rake" : 3289.13
 	},
 	{
@@ -10491,6 +10967,7 @@
 		"hand_id" : 27266810070,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 558.68
 	},
 	{
@@ -10513,6 +10990,7 @@
 		"hand_id" : 27267190018,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 11973.80
 	},
 	{
@@ -10535,6 +11013,7 @@
 		"hand_id" : 27259600365,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 715.77
 	},
 	{
@@ -10557,6 +11036,7 @@
 		"hand_id" : 27263790162,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 155.32
 	},
 	{
@@ -10579,6 +11059,7 @@
 		"hand_id" : 27267500027,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 242.87
 	},
 	{
@@ -10601,6 +11082,7 @@
 		"hand_id" : 27255390520,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2654.22
 	},
 	{
@@ -10623,6 +11105,7 @@
 		"hand_id" : 27265250131,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -30.40,
+		"EVCHOP_FEE" : 0.91,
 		"remaining_pot_after_rake" : 253.06
 	},
 	{
@@ -10645,6 +11128,7 @@
 		"hand_id" : 27256570475,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 208.46
 	},
 	{
@@ -10667,6 +11151,7 @@
 		"hand_id" : 27255390526,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2372.00
 	},
 	{
@@ -10689,6 +11174,7 @@
 		"hand_id" : 27264010019,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -36.48,
+		"EVCHOP_FEE" : 1.09,
 		"remaining_pot_after_rake" : 364.92
 	},
 	{
@@ -10711,6 +11197,7 @@
 		"hand_id" : 27260430240,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 195.50
 	},
 	{
@@ -10733,6 +11220,7 @@
 		"hand_id" : 27260430241,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 249.26
 	},
 	{
@@ -10755,6 +11243,7 @@
 		"hand_id" : 27263310151,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 277.07
 	},
 	{
@@ -10777,6 +11266,7 @@
 		"hand_id" : 27267630042,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -2437.30,
+		"EVCHOP_FEE" : 73.12,
 		"remaining_pot_after_rake" : 1759.69
 	},
 	{
@@ -10799,6 +11289,7 @@
 		"hand_id" : 27268170013,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 232.90,
+		"EVCHOP_FEE" : 134.17,
 		"remaining_pot_after_rake" : 4938.04
 	},
 	{
@@ -10821,6 +11312,7 @@
 		"hand_id" : 27260100354,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 495.79
 	},
 	{
@@ -10843,6 +11335,7 @@
 		"hand_id" : 27258750286,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 73.30,
+		"EVCHOP_FEE" : 62.29,
 		"remaining_pot_after_rake" : 2222.90
 	},
 	{
@@ -10865,6 +11358,7 @@
 		"hand_id" : 27259600399,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 662.96
 	},
 	{
@@ -10887,6 +11381,7 @@
 		"hand_id" : 27260240307,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 449.93
 	},
 	{
@@ -10909,6 +11404,7 @@
 		"hand_id" : 27265620171,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -216.28,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2370.74
 	},
 	{
@@ -10931,6 +11427,7 @@
 		"hand_id" : 27264500179,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -316.52,
+		"EVCHOP_FEE" : 9.50,
 		"remaining_pot_after_rake" : 844.16
 	},
 	{
@@ -10953,6 +11450,7 @@
 		"hand_id" : 27268020043,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4302.40
 	},
 	{
@@ -10975,6 +11473,7 @@
 		"hand_id" : 27265540151,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3125.92
 	},
 	{
@@ -10997,6 +11496,7 @@
 		"hand_id" : 27268900017,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5964.92
 	},
 	{
@@ -11019,6 +11519,7 @@
 		"hand_id" : 27261310028,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 10005.36
 	},
 	{
@@ -11041,6 +11542,7 @@
 		"hand_id" : 8801650099,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.24
 	},
 	{
@@ -11063,6 +11565,7 @@
 		"hand_id" : 27266800114,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 14758.84
 	},
 	{
@@ -11085,6 +11588,7 @@
 		"hand_id" : 27260100379,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 371.99
 	},
 	{
@@ -11107,6 +11611,7 @@
 		"hand_id" : 27267410089,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1372.86
 	},
 	{
@@ -11129,6 +11634,7 @@
 		"hand_id" : 27269050020,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 131.55
 	},
 	{
@@ -11151,6 +11657,7 @@
 		"hand_id" : 27269540007,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 23553.51
 	},
 	{
@@ -11173,6 +11680,7 @@
 		"hand_id" : 27266300107,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1040.87
 	},
 	{
@@ -11195,6 +11703,7 @@
 		"hand_id" : 27264950176,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 206.76
 	},
 	{
@@ -11217,6 +11726,7 @@
 		"hand_id" : 27264950183,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 135.33
 	},
 	{
@@ -11239,6 +11749,7 @@
 		"hand_id" : 27264600232,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6269.45
 	},
 	{
@@ -11261,6 +11772,7 @@
 		"hand_id" : 27255510583,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 187.35,
+		"EVCHOP_FEE" : 1.92,
 		"remaining_pot_after_rake" : 438.56
 	},
 	{
@@ -11283,6 +11795,7 @@
 		"hand_id" : 27265080183,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 207.16,
+		"EVCHOP_FEE" : 24.13,
 		"remaining_pot_after_rake" : 1218.60
 	},
 	{
@@ -11305,6 +11818,7 @@
 		"hand_id" : 27264200090,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 108312.22
 	},
 	{
@@ -11327,6 +11841,7 @@
 		"hand_id" : 27269590034,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3820.50
 	},
 	{
@@ -11349,6 +11864,7 @@
 		"hand_id" : 27250040898,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1238.54
 	},
 	{
@@ -11371,6 +11887,7 @@
 		"hand_id" : 27262760230,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 291.19
 	},
 	{
@@ -11393,6 +11910,7 @@
 		"hand_id" : 27252080780,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 236.67
 	},
 	{
@@ -11415,6 +11933,7 @@
 		"hand_id" : 27261970361,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 95.57
 	},
 	{
@@ -11437,6 +11956,7 @@
 		"hand_id" : 27268900066,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3022.05
 	},
 	{
@@ -11459,6 +11979,7 @@
 		"hand_id" : 27268980041,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -4837.24,
+		"EVCHOP_FEE" : 145.12,
 		"remaining_pot_after_rake" : 14128.41
 	},
 	{
@@ -11481,6 +12002,7 @@
 		"hand_id" : 27262280295,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 354.22
 	},
 	{
@@ -11503,6 +12025,7 @@
 		"hand_id" : 27261800365,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 583.13
 	},
 	{
@@ -11525,6 +12048,7 @@
 		"hand_id" : 27265480210,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5777.44
 	},
 	{
@@ -11547,6 +12071,7 @@
 		"hand_id" : 27261800370,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 706.95
 	},
 	{
@@ -11569,6 +12094,7 @@
 		"hand_id" : 27256570558,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -78.94,
+		"EVCHOP_FEE" : 2.37,
 		"remaining_pot_after_rake" : 1493.24
 	},
 	{
@@ -11591,6 +12117,7 @@
 		"hand_id" : 27256200603,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 225.20
 	},
 	{
@@ -11613,6 +12140,7 @@
 		"hand_id" : 27268910072,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 760.10
 	},
 	{
@@ -11635,6 +12163,7 @@
 		"hand_id" : 27270790021,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 134.40
 	},
 	{
@@ -11657,6 +12186,7 @@
 		"hand_id" : 27270700004,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 10650.92
 	},
 	{
@@ -11679,6 +12209,7 @@
 		"hand_id" : 27257300569,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 154.72,
+		"EVCHOP_FEE" : 10.62,
 		"remaining_pot_after_rake" : 663.50
 	},
 	{
@@ -11701,6 +12232,7 @@
 		"hand_id" : 27258730555,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3736.82
 	},
 	{
@@ -11723,6 +12255,7 @@
 		"hand_id" : 8801960056,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -10.99,
+		"EVCHOP_FEE" : 0.33,
 		"remaining_pot_after_rake" : 18.75
 	},
 	{
@@ -11745,6 +12278,7 @@
 		"hand_id" : 27265620275,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 709.76
 	},
 	{
@@ -11767,6 +12301,7 @@
 		"hand_id" : 27268580103,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 263.58,
+		"EVCHOP_FEE" : 2.81,
 		"remaining_pot_after_rake" : 620.97
 	},
 	{
@@ -11789,6 +12324,7 @@
 		"hand_id" : 27268930039,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 23806.66
 	},
 	{
@@ -11811,6 +12347,7 @@
 		"hand_id" : 27254340772,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2869.01
 	},
 	{
@@ -11833,6 +12370,7 @@
 		"hand_id" : 27264050320,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4372.64
 	},
 	{
@@ -11855,6 +12393,7 @@
 		"hand_id" : 27264850257,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 196.34
 	},
 	{
@@ -11877,6 +12416,7 @@
 		"hand_id" : 27266740194,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 190.72
 	},
 	{
@@ -11899,6 +12439,7 @@
 		"hand_id" : 27256200621,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 185.40,
+		"EVCHOP_FEE" : 2.47,
 		"remaining_pot_after_rake" : 453.01
 	},
 	{
@@ -11921,6 +12462,7 @@
 		"hand_id" : 27267480176,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 493.27
 	},
 	{
@@ -11943,6 +12485,7 @@
 		"hand_id" : 27270410044,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 22144.29
 	},
 	{
@@ -11965,6 +12508,7 @@
 		"hand_id" : 27270680044,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 801.03
 	},
 	{
@@ -11987,6 +12531,7 @@
 		"hand_id" : 27264100299,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1496.83
 	},
 	{
@@ -12009,6 +12554,7 @@
 		"hand_id" : 27269210093,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5777.44
 	},
 	{
@@ -12031,6 +12577,7 @@
 		"hand_id" : 27258730586,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1963.07
 	},
 	{
@@ -12053,6 +12600,7 @@
 		"hand_id" : 27259890468,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 298.65
 	},
 	{
@@ -12075,6 +12623,7 @@
 		"hand_id" : 27266240016,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3917.22
 	},
 	{
@@ -12097,6 +12646,7 @@
 		"hand_id" : 27265080243,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 430.00
 	},
 	{
@@ -12119,6 +12669,7 @@
 		"hand_id" : 8801960111,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -12141,6 +12692,7 @@
 		"hand_id" : 27268490099,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3129.97
 	},
 	{
@@ -12163,6 +12715,7 @@
 		"hand_id" : 27269420100,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 1273.27,
+		"EVCHOP_FEE" : 171.91,
 		"remaining_pot_after_rake" : 8276.97
 	},
 	{
@@ -12185,6 +12738,7 @@
 		"hand_id" : 27242351202,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 107.14,
+		"EVCHOP_FEE" : 3.15,
 		"remaining_pot_after_rake" : 319.44
 	},
 	{
@@ -12207,6 +12761,7 @@
 		"hand_id" : 27269350096,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -32.44,
+		"EVCHOP_FEE" : 0.97,
 		"remaining_pot_after_rake" : 167.36
 	},
 	{
@@ -12229,6 +12784,7 @@
 		"hand_id" : 27263770065,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 420.41
 	},
 	{
@@ -12251,6 +12807,7 @@
 		"hand_id" : 27265480284,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3815.24
 	},
 	{
@@ -12273,6 +12830,7 @@
 		"hand_id" : 27258750406,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 987.11
 	},
 	{
@@ -12295,6 +12853,7 @@
 		"hand_id" : 27270790070,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 179.79
 	},
 	{
@@ -12317,6 +12876,7 @@
 		"hand_id" : 27271310046,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2347.47
 	},
 	{
@@ -12339,6 +12899,7 @@
 		"hand_id" : 27264960289,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1487.43
 	},
 	{
@@ -12361,6 +12922,7 @@
 		"hand_id" : 27268020193,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2503.97
 	},
 	{
@@ -12383,6 +12945,7 @@
 		"hand_id" : 27268900169,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2993.87
 	},
 	{
@@ -12405,6 +12968,7 @@
 		"hand_id" : 27265730246,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 428.42,
+		"EVCHOP_FEE" : 5.93,
 		"remaining_pot_after_rake" : 1054.49
 	},
 	{
@@ -12427,6 +12991,7 @@
 		"hand_id" : 27269880090,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 709.76
 	},
 	{
@@ -12449,6 +13014,7 @@
 		"hand_id" : 27270680079,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 763.11
 	},
 	{
@@ -12471,6 +13037,7 @@
 		"hand_id" : 27272490001,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 268.88
 	},
 	{
@@ -12493,6 +13060,7 @@
 		"hand_id" : 27217392174,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -848.56,
+		"EVCHOP_FEE" : 25.46,
 		"remaining_pot_after_rake" : 3429.48
 	},
 	{
@@ -12515,6 +13083,7 @@
 		"hand_id" : 27250040982,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 630.20
 	},
 	{
@@ -12537,6 +13106,7 @@
 		"hand_id" : 27262740395,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4004.11
 	},
 	{
@@ -12559,6 +13129,7 @@
 		"hand_id" : 27264050380,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 13789.18
 	},
 	{
@@ -12581,6 +13152,7 @@
 		"hand_id" : 27269350120,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 236.86
 	},
 	{
@@ -12603,6 +13175,7 @@
 		"hand_id" : 27260240427,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 324.45
 	},
 	{
@@ -12625,6 +13198,7 @@
 		"hand_id" : 27262760338,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 598.89
 	},
 	{
@@ -12647,6 +13221,7 @@
 		"hand_id" : 27268580165,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 631.13
 	},
 	{
@@ -12669,6 +13244,7 @@
 		"hand_id" : 8802810064,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -7.40,
+		"EVCHOP_FEE" : 0.22,
 		"remaining_pot_after_rake" : 31.34
 	},
 	{
@@ -12691,6 +13267,7 @@
 		"hand_id" : 27271310075,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 964.29
 	},
 	{
@@ -12713,6 +13290,7 @@
 		"hand_id" : 27270650074,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 195.23
 	},
 	{
@@ -12735,6 +13313,7 @@
 		"hand_id" : 8801930105,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -39.82,
+		"EVCHOP_FEE" : 1.19,
 		"remaining_pot_after_rake" : 103.90
 	},
 	{
@@ -12757,6 +13336,7 @@
 		"hand_id" : 27217392192,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -84.92,
+		"EVCHOP_FEE" : 2.55,
 		"remaining_pot_after_rake" : 1522.25
 	},
 	{
@@ -12779,6 +13359,7 @@
 		"hand_id" : 27262280402,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -89.15,
+		"EVCHOP_FEE" : 2.67,
 		"remaining_pot_after_rake" : 682.63
 	},
 	{
@@ -12801,6 +13382,7 @@
 		"hand_id" : 27270650084,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 108.11
 	},
 	{
@@ -12823,6 +13405,7 @@
 		"hand_id" : 27269870077,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4230.72
 	},
 	{
@@ -12845,6 +13428,7 @@
 		"hand_id" : 27272070032,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 203.24
 	},
 	{
@@ -12867,6 +13451,7 @@
 		"hand_id" : 27262280415,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -85.52,
+		"EVCHOP_FEE" : 2.57,
 		"remaining_pot_after_rake" : 299.55
 	},
 	{
@@ -12889,6 +13474,7 @@
 		"hand_id" : 27261970513,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 578.54
 	},
 	{
@@ -12911,6 +13497,7 @@
 		"hand_id" : 27265080303,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -12.97,
+		"EVCHOP_FEE" : 0.39,
 		"remaining_pot_after_rake" : 174.64
 	},
 	{
@@ -12933,6 +13520,7 @@
 		"hand_id" : 27273540016,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 666.52
 	},
 	{
@@ -12955,6 +13543,7 @@
 		"hand_id" : 27272070042,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 235.72
 	},
 	{
@@ -12977,6 +13566,7 @@
 		"hand_id" : 27272110076,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2888.72
 	},
 	{
@@ -12999,6 +13589,7 @@
 		"hand_id" : 27263770134,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 61.73,
+		"EVCHOP_FEE" : 13.06,
 		"remaining_pot_after_rake" : 558.75
 	},
 	{
@@ -13021,6 +13612,7 @@
 		"hand_id" : 27266130043,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2674.70
 	},
 	{
@@ -13043,6 +13635,7 @@
 		"hand_id" : 27269360161,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2623.51
 	},
 	{
@@ -13065,6 +13658,7 @@
 		"hand_id" : 27270790136,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 141.62
 	},
 	{
@@ -13087,6 +13681,7 @@
 		"hand_id" : 27266300263,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1251.17
 	},
 	{
@@ -13109,6 +13704,7 @@
 		"hand_id" : 27270350143,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 104.90
 	},
 	{
@@ -13131,6 +13727,7 @@
 		"hand_id" : 27270650118,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 367.97
 	},
 	{
@@ -13153,6 +13750,7 @@
 		"hand_id" : 27253650041,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1648.46
 	},
 	{
@@ -13175,6 +13773,7 @@
 		"hand_id" : 27256360685,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -136.58,
+		"EVCHOP_FEE" : 4.10,
 		"remaining_pot_after_rake" : 364.26
 	},
 	{
@@ -13197,6 +13796,7 @@
 		"hand_id" : 27272070064,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 258.81
 	},
 	{
@@ -13219,6 +13819,7 @@
 		"hand_id" : 27274160010,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5500.24
 	},
 	{
@@ -13241,6 +13842,7 @@
 		"hand_id" : 27269350175,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 262.43
 	},
 	{
@@ -13263,6 +13865,7 @@
 		"hand_id" : 27270470166,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 10383.34
 	},
 	{
@@ -13285,6 +13888,7 @@
 		"hand_id" : 27274530009,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1283.24
 	},
 	{
@@ -13307,6 +13911,7 @@
 		"hand_id" : 27269960144,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 71.86,
+		"EVCHOP_FEE" : 17.32,
 		"remaining_pot_after_rake" : 720.94
 	},
 	{
@@ -13329,6 +13934,7 @@
 		"hand_id" : 27269210221,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 5814.81,
+		"EVCHOP_FEE" : 28.49,
 		"remaining_pot_after_rake" : 12579.36
 	},
 	{
@@ -13351,6 +13957,7 @@
 		"hand_id" : 8802870200,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -47.08,
+		"EVCHOP_FEE" : 1.41,
 		"remaining_pot_after_rake" : 101.64
 	},
 	{
@@ -13373,6 +13980,7 @@
 		"hand_id" : 27256200745,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 238.76,
+		"EVCHOP_FEE" : 2.24,
 		"remaining_pot_after_rake" : 552.26
 	},
 	{
@@ -13395,6 +14003,7 @@
 		"hand_id" : 27269160240,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 871.17
 	},
 	{
@@ -13417,6 +14026,7 @@
 		"hand_id" : 27273260081,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1879.62
 	},
 	{
@@ -13439,6 +14049,7 @@
 		"hand_id" : 27255510743,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 284.18
 	},
 	{
@@ -13461,6 +14072,7 @@
 		"hand_id" : 27273270080,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4228.20
 	},
 	{
@@ -13483,6 +14095,7 @@
 		"hand_id" : 27269350197,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -23.27,
+		"EVCHOP_FEE" : 0.70,
 		"remaining_pot_after_rake" : 187.31
 	},
 	{
@@ -13505,6 +14118,7 @@
 		"hand_id" : 27270650151,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 454.46
 	},
 	{
@@ -13527,6 +14141,7 @@
 		"hand_id" : 27274350032,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5113.28
 	},
 	{
@@ -13549,6 +14164,7 @@
 		"hand_id" : 27274810050,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1069.85
 	},
 	{
@@ -13571,6 +14187,7 @@
 		"hand_id" : 27272580102,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1352.50
 	},
 	{
@@ -13593,6 +14210,7 @@
 		"hand_id" : 27262760431,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -43.02,
+		"EVCHOP_FEE" : 1.29,
 		"remaining_pot_after_rake" : 440.99
 	},
 	{
@@ -13615,6 +14233,7 @@
 		"hand_id" : 27274320032,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6929.02
 	},
 	{
@@ -13637,6 +14256,7 @@
 		"hand_id" : 27233510027,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1728.40
 	},
 	{
@@ -13659,6 +14279,7 @@
 		"hand_id" : 27256200771,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 193.32
 	},
 	{
@@ -13681,6 +14302,7 @@
 		"hand_id" : 27275070027,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 217.24
 	},
 	{
@@ -13703,6 +14325,7 @@
 		"hand_id" : 27272070113,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 405.51
 	},
 	{
@@ -13725,6 +14348,7 @@
 		"hand_id" : 27273350059,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 268.88
 	},
 	{
@@ -13747,6 +14371,7 @@
 		"hand_id" : 27275390022,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6785.19
 	},
 	{
@@ -13769,6 +14394,7 @@
 		"hand_id" : 27275930008,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 95.13
 	},
 	{
@@ -13791,6 +14417,7 @@
 		"hand_id" : 27258000735,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -193.85,
+		"EVCHOP_FEE" : 5.82,
 		"remaining_pot_after_rake" : 1684.87
 	},
 	{
@@ -13813,6 +14440,7 @@
 		"hand_id" : 27265510385,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1546.09
 	},
 	{
@@ -13835,6 +14463,7 @@
 		"hand_id" : 27270650176,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 100.24
 	},
 	{
@@ -13857,6 +14486,7 @@
 		"hand_id" : 27272910137,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 11205.20
 	},
 	{
@@ -13879,6 +14509,7 @@
 		"hand_id" : 27272070129,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 76.34,
+		"EVCHOP_FEE" : 1.38,
 		"remaining_pot_after_rake" : 198.74
 	},
 	{
@@ -13901,6 +14532,7 @@
 		"hand_id" : 27273230122,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -803.32,
+		"EVCHOP_FEE" : 24.10,
 		"remaining_pot_after_rake" : 3517.93
 	},
 	{
@@ -13923,6 +14555,7 @@
 		"hand_id" : 27266300330,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1116.40
 	},
 	{
@@ -13945,6 +14578,7 @@
 		"hand_id" : 27264950415,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 865.28
 	},
 	{
@@ -13967,6 +14601,7 @@
 		"hand_id" : 27267410334,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 639.56
 	},
 	{
@@ -13989,6 +14624,7 @@
 		"hand_id" : 27262760465,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 502.72
 	},
 	{
@@ -14011,6 +14647,7 @@
 		"hand_id" : 27269480242,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 306.27
 	},
 	{
@@ -14033,6 +14670,7 @@
 		"hand_id" : 27260100618,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 343.88
 	},
 	{
@@ -14055,6 +14693,7 @@
 		"hand_id" : 27274260016,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 88.07,
+		"EVCHOP_FEE" : 32.50,
 		"remaining_pot_after_rake" : 3511.21
 	},
 	{
@@ -14077,6 +14716,7 @@
 		"hand_id" : 27256360772,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 236.34
 	},
 	{
@@ -14099,6 +14739,7 @@
 		"hand_id" : 27263290493,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 1063.39,
+		"EVCHOP_FEE" : 11.64,
 		"remaining_pot_after_rake" : 2514.92
 	},
 	{
@@ -14121,6 +14762,7 @@
 		"hand_id" : 27276240012,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -17062.42,
+		"EVCHOP_FEE" : 511.87,
 		"remaining_pot_after_rake" : 45097.24
 	},
 	{
@@ -14143,6 +14785,7 @@
 		"hand_id" : 27250041155,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 665.69
 	},
 	{
@@ -14165,6 +14808,7 @@
 		"hand_id" : 27276010006,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 73.69,
+		"EVCHOP_FEE" : 2.95,
 		"remaining_pot_after_rake" : 245.86
 	},
 	{
@@ -14187,6 +14831,7 @@
 		"hand_id" : 27274670115,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4127.57
 	},
 	{
@@ -14209,6 +14854,7 @@
 		"hand_id" : 27277080004,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 618.33,
+		"EVCHOP_FEE" : 4.92,
 		"remaining_pot_after_rake" : 1763.80
 	},
 	{
@@ -14231,6 +14877,7 @@
 		"hand_id" : 27275070116,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 220.17
 	},
 	{
@@ -14253,6 +14900,7 @@
 		"hand_id" : 27276090030,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3031.04
 	},
 	{
@@ -14275,6 +14923,7 @@
 		"hand_id" : 27276770016,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12224.03
 	},
 	{
@@ -14297,6 +14946,7 @@
 		"hand_id" : 27273910044,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 40571.52
 	},
 	{
@@ -14319,6 +14969,7 @@
 		"hand_id" : 27277870006,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2657.45
 	},
 	{
@@ -14341,6 +14992,7 @@
 		"hand_id" : 27268910311,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 371.51
 	},
 	{
@@ -14363,6 +15015,7 @@
 		"hand_id" : 27263290539,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1485.43
 	},
 	{
@@ -14385,6 +15038,7 @@
 		"hand_id" : 27250041190,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 798.55
 	},
 	{
@@ -14407,6 +15061,7 @@
 		"hand_id" : 27273350134,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 307.92
 	},
 	{
@@ -14429,6 +15084,7 @@
 		"hand_id" : 27275770083,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 574.58
 	},
 	{
@@ -14451,6 +15107,7 @@
 		"hand_id" : 27277770005,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 413.96
 	},
 	{
@@ -14473,6 +15130,7 @@
 		"hand_id" : 27278020018,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 773.91,
+		"EVCHOP_FEE" : 21.06,
 		"remaining_pot_after_rake" : 2249.94
 	},
 	{
@@ -14495,6 +15153,7 @@
 		"hand_id" : 27273540196,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2217.64
 	},
 	{
@@ -14517,6 +15176,7 @@
 		"hand_id" : 27278010011,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 10515.98
 	},
 	{
@@ -14539,6 +15199,7 @@
 		"hand_id" : 27277340049,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7200.64
 	},
 	{
@@ -14561,6 +15222,7 @@
 		"hand_id" : 27258000827,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3834.40
 	},
 	{
@@ -14583,6 +15245,7 @@
 		"hand_id" : 27276140103,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -175.83,
+		"EVCHOP_FEE" : 5.27,
 		"remaining_pot_after_rake" : 7570.10
 	},
 	{
@@ -14605,6 +15268,7 @@
 		"hand_id" : 27274300142,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -368.29,
+		"EVCHOP_FEE" : 11.05,
 		"remaining_pot_after_rake" : 1898.64
 	},
 	{
@@ -14627,6 +15291,7 @@
 		"hand_id" : 27262760540,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 208.42
 	},
 	{
@@ -14649,6 +15314,7 @@
 		"hand_id" : 8804440009,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -6.40,
+		"EVCHOP_FEE" : 0.19,
 		"remaining_pot_after_rake" : 23.34
 	},
 	{
@@ -14671,6 +15337,7 @@
 		"hand_id" : 27276530059,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 400.83
 	},
 	{
@@ -14693,6 +15360,7 @@
 		"hand_id" : 27278010024,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -1615.82,
+		"EVCHOP_FEE" : 48.47,
 		"remaining_pot_after_rake" : 8048.19
 	},
 	{
@@ -14715,6 +15383,7 @@
 		"hand_id" : 27275860123,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 219.87
 	},
 	{
@@ -14737,6 +15406,7 @@
 		"hand_id" : 27259890729,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 161.18
 	},
 	{
@@ -14759,6 +15429,7 @@
 		"hand_id" : 27255510857,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 474.52
 	},
 	{
@@ -14781,6 +15452,7 @@
 		"hand_id" : 27277980036,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 528.96
 	},
 	{
@@ -14803,6 +15475,7 @@
 		"hand_id" : 27276000071,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -1605.87,
+		"EVCHOP_FEE" : 48.18,
 		"remaining_pot_after_rake" : 4845.19
 	},
 	{
@@ -14825,6 +15498,7 @@
 		"hand_id" : 27270410307,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12312.26
 	},
 	{
@@ -14847,6 +15521,7 @@
 		"hand_id" : 27272670262,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7516.47
 	},
 	{
@@ -14869,6 +15544,7 @@
 		"hand_id" : 27274300151,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1338.73
 	},
 	{
@@ -14891,6 +15567,7 @@
 		"hand_id" : 27268930325,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 134431.34
 	},
 	{
@@ -14913,6 +15590,7 @@
 		"hand_id" : 27242351424,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 154.45
 	},
 	{
@@ -14935,6 +15613,7 @@
 		"hand_id" : 27268900430,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3201.82
 	},
 	{
@@ -14957,6 +15636,7 @@
 		"hand_id" : 27276090090,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5349.91
 	},
 	{
@@ -14979,6 +15659,7 @@
 		"hand_id" : 27274350170,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4656.56
 	},
 	{
@@ -15001,6 +15682,7 @@
 		"hand_id" : 27266300433,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -198.90,
+		"EVCHOP_FEE" : 5.97,
 		"remaining_pot_after_rake" : 2511.65
 	},
 	{
@@ -15023,6 +15705,7 @@
 		"hand_id" : 8804440056,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 19.60,
+		"EVCHOP_FEE" : 0.27,
 		"remaining_pot_after_rake" : 48.34
 	},
 	{
@@ -15045,6 +15728,7 @@
 		"hand_id" : 27274760161,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 129.35
 	},
 	{
@@ -15067,6 +15751,7 @@
 		"hand_id" : 27278720027,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 11688.71
 	},
 	{
@@ -15089,6 +15774,7 @@
 		"hand_id" : 27262110623,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1845.60
 	},
 	{
@@ -15111,6 +15797,7 @@
 		"hand_id" : 27272110295,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4277.06
 	},
 	{
@@ -15133,6 +15820,7 @@
 		"hand_id" : 27262110624,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 492.15
 	},
 	{
@@ -15155,6 +15843,7 @@
 		"hand_id" : 27276000095,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 2929.13,
+		"EVCHOP_FEE" : 95.28,
 		"remaining_pot_after_rake" : 9034.41
 	},
 	{
@@ -15177,6 +15866,7 @@
 		"hand_id" : 27278450053,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 967.69
 	},
 	{
@@ -15199,6 +15889,7 @@
 		"hand_id" : 8804610045,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 143.72
 	},
 	{
@@ -15221,6 +15912,7 @@
 		"hand_id" : 27279400009,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : -88.31,
+		"EVCHOP_FEE" : 2.65,
 		"remaining_pot_after_rake" : 689.07
 	},
 	{
@@ -15243,6 +15935,7 @@
 		"hand_id" : 27279300026,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2220.21
 	},
 	{
@@ -15265,6 +15958,7 @@
 		"hand_id" : 27280100002,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : -89.74,
+		"EVCHOP_FEE" : 2.69,
 		"remaining_pot_after_rake" : 549.42
 	},
 	{
@@ -15287,6 +15981,7 @@
 		"hand_id" : 8803620400,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 47.52,
+		"EVCHOP_FEE" : 4.39,
 		"remaining_pot_after_rake" : 241.24
 	},
 	{
@@ -15309,6 +16004,7 @@
 		"hand_id" : 27278720052,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 13062.63
 	},
 	{
@@ -15331,6 +16027,7 @@
 		"hand_id" : 27271710294,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1050.09
 	},
 	{
@@ -15353,6 +16050,7 @@
 		"hand_id" : 27267890548,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -302.98,
+		"EVCHOP_FEE" : 9.09,
 		"remaining_pot_after_rake" : 3713.15
 	},
 	{
@@ -15375,6 +16073,7 @@
 		"hand_id" : 27275770169,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -91.97,
+		"EVCHOP_FEE" : 2.76,
 		"remaining_pot_after_rake" : 378.73
 	},
 	{
@@ -15397,6 +16096,7 @@
 		"hand_id" : 27278480016,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 94.73
 	},
 	{
@@ -15419,6 +16119,7 @@
 		"hand_id" : 27279150040,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 24207.94
 	},
 	{
@@ -15441,6 +16142,7 @@
 		"hand_id" : 27274990139,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3038.80
 	},
 	{
@@ -15463,6 +16165,7 @@
 		"hand_id" : 27280710005,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2916.73
 	},
 	{
@@ -15485,6 +16188,7 @@
 		"hand_id" : 27274480004,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2793.84
 	},
 	{
@@ -15507,6 +16211,7 @@
 		"hand_id" : 27279630083,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 9098.24
 	},
 	{
@@ -15529,6 +16234,7 @@
 		"hand_id" : 27280160040,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 675.82
 	},
 	{
@@ -15551,6 +16257,7 @@
 		"hand_id" : 27279750058,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -614.43,
+		"EVCHOP_FEE" : 18.43,
 		"remaining_pot_after_rake" : 727.06
 	},
 	{
@@ -15573,6 +16280,7 @@
 		"hand_id" : 27262760615,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 857.37
 	},
 	{
@@ -15595,6 +16303,7 @@
 		"hand_id" : 27280680020,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 287.51
 	},
 	{
@@ -15617,6 +16326,7 @@
 		"hand_id" : 8804610153,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -49.05,
+		"EVCHOP_FEE" : 1.47,
 		"remaining_pot_after_rake" : 94.67
 	},
 	{
@@ -15639,6 +16349,7 @@
 		"hand_id" : 27279380038,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 366.62
 	},
 	{
@@ -15661,6 +16372,7 @@
 		"hand_id" : 27278570100,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 268.88
 	},
 	{
@@ -15683,6 +16395,7 @@
 		"hand_id" : 27281520008,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -25.97,
+		"EVCHOP_FEE" : 0.78,
 		"remaining_pot_after_rake" : 136.93
 	},
 	{
@@ -15705,6 +16418,7 @@
 		"hand_id" : 8805250025,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -2.15,
+		"EVCHOP_FEE" : 0.06,
 		"remaining_pot_after_rake" : 27.59
 	},
 	{
@@ -15727,6 +16441,7 @@
 		"hand_id" : 27279380053,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -51.77,
+		"EVCHOP_FEE" : 1.55,
 		"remaining_pot_after_rake" : 361.06
 	},
 	{
@@ -15749,6 +16464,7 @@
 		"hand_id" : 8805250031,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -5.04,
+		"EVCHOP_FEE" : 0.15,
 		"remaining_pot_after_rake" : 33.70
 	},
 	{
@@ -15771,6 +16487,7 @@
 		"hand_id" : 27282100001,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2784.80
 	},
 	{
@@ -15793,6 +16510,7 @@
 		"hand_id" : 27267890609,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2863.48
 	},
 	{
@@ -15815,6 +16533,7 @@
 		"hand_id" : 27278730112,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 201.04,
+		"EVCHOP_FEE" : 6.57,
 		"remaining_pot_after_rake" : 621.14
 	},
 	{
@@ -15837,6 +16556,7 @@
 		"hand_id" : 27272590401,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5118.40
 	},
 	{
@@ -15859,6 +16579,7 @@
 		"hand_id" : 27278480055,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -27.75,
+		"EVCHOP_FEE" : 0.83,
 		"remaining_pot_after_rake" : 498.07
 	},
 	{
@@ -15881,6 +16602,7 @@
 		"hand_id" : 27281740032,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 9191.92
 	},
 	{
@@ -15903,6 +16625,7 @@
 		"hand_id" : 27278480063,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 231.34
 	},
 	{
@@ -15925,6 +16648,7 @@
 		"hand_id" : 27281830046,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 226.11
 	},
 	{
@@ -15947,6 +16671,7 @@
 		"hand_id" : 8805270050,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28.74
 	},
 	{
@@ -15969,6 +16694,7 @@
 		"hand_id" : 27278680045,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 45029.22
 	},
 	{
@@ -15991,6 +16717,7 @@
 		"hand_id" : 27281120081,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6010.80
 	},
 	{
@@ -16013,6 +16740,7 @@
 		"hand_id" : 27282600003,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2400.16
 	},
 	{
@@ -16035,6 +16763,7 @@
 		"hand_id" : 27280560087,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 693.43,
+		"EVCHOP_FEE" : 0.99,
 		"remaining_pot_after_rake" : 1419.91
 	},
 	{
@@ -16057,6 +16786,7 @@
 		"hand_id" : 27280070069,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 259.58
 	},
 	{
@@ -16079,6 +16809,7 @@
 		"hand_id" : 27282260025,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 639.56
 	},
 	{
@@ -16101,6 +16832,7 @@
 		"hand_id" : 27272670408,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6848.37
 	},
 	{
@@ -16123,6 +16855,7 @@
 		"hand_id" : 27281680038,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 820.02
 	},
 	{
@@ -16145,6 +16878,7 @@
 		"hand_id" : 27280280014,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -1440.51,
+		"EVCHOP_FEE" : 43.22,
 		"remaining_pot_after_rake" : 1248.64
 	},
 	{
@@ -16167,6 +16901,7 @@
 		"hand_id" : 27274360273,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 90.09
 	},
 	{
@@ -16189,6 +16924,7 @@
 		"hand_id" : 27274360280,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 199.03
 	},
 	{
@@ -16211,6 +16947,7 @@
 		"hand_id" : 27282280020,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 309.73,
+		"EVCHOP_FEE" : 2.01,
 		"remaining_pot_after_rake" : 686.30
 	},
 	{
@@ -16233,6 +16970,7 @@
 		"hand_id" : 27277770162,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 342.97
 	},
 	{
@@ -16255,6 +16993,7 @@
 		"hand_id" : 27274360284,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 280.03
 	},
 	{
@@ -16277,6 +17016,7 @@
 		"hand_id" : 27282280022,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 222.40
 	},
 	{
@@ -16299,6 +17039,7 @@
 		"hand_id" : 27277770166,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 272.93
 	},
 	{
@@ -16321,6 +17062,7 @@
 		"hand_id" : 27281860007,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4213.74
 	},
 	{
@@ -16343,6 +17085,7 @@
 		"hand_id" : 27280490105,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2138.10
 	},
 	{
@@ -16365,6 +17108,7 @@
 		"hand_id" : 27282790013,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 16619.08
 	},
 	{
@@ -16387,6 +17131,7 @@
 		"hand_id" : 27282410049,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1075.53
 	},
 	{
@@ -16409,6 +17154,7 @@
 		"hand_id" : 27283120013,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : -2127.06,
+		"EVCHOP_FEE" : 63.81,
 		"remaining_pot_after_rake" : 27130.98
 	},
 	{
@@ -16431,6 +17177,7 @@
 		"hand_id" : 27265620724,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2235.92
 	},
 	{
@@ -16453,6 +17200,7 @@
 		"hand_id" : 27281580059,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1605.24
 	},
 	{
@@ -16475,6 +17223,7 @@
 		"hand_id" : 27282410061,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 855.84
 	},
 	{
@@ -16497,6 +17246,7 @@
 		"hand_id" : 27279410021,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 361.84
 	},
 	{
@@ -16519,6 +17269,7 @@
 		"hand_id" : 27283580019,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 1629.96,
+		"EVCHOP_FEE" : 68.03,
 		"remaining_pot_after_rake" : 5527.52
 	},
 	{
@@ -16541,6 +17292,7 @@
 		"hand_id" : 27271710428,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2850.27
 	},
 	{
@@ -16563,6 +17315,7 @@
 		"hand_id" : 27283910006,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : -400.91,
+		"EVCHOP_FEE" : 42.10,
 		"remaining_pot_after_rake" : 1603.68
 	},
 	{
@@ -16585,6 +17338,7 @@
 		"hand_id" : 27263390759,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 179.22
 	},
 	{
@@ -16607,6 +17361,7 @@
 		"hand_id" : 27282560025,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 99.35,
+		"EVCHOP_FEE" : 1.41,
 		"remaining_pot_after_rake" : 245.76
 	},
 	{
@@ -16629,6 +17384,7 @@
 		"hand_id" : 27281900062,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 126.20
 	},
 	{
@@ -16651,6 +17407,7 @@
 		"hand_id" : 27282560027,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 144.56
 	},
 	{
@@ -16673,6 +17430,7 @@
 		"hand_id" : 27268910476,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 329.30
 	},
 	{
@@ -16695,6 +17453,7 @@
 		"hand_id" : 27280490138,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1907.70
 	},
 	{
@@ -16717,6 +17476,7 @@
 		"hand_id" : 27280920169,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 333.54
 	},
 	{
@@ -16739,6 +17499,7 @@
 		"hand_id" : 27283730032,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 40030.40
 	},
 	{
@@ -16761,6 +17522,7 @@
 		"hand_id" : 27277320246,
 		"noOfUser" : 8,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1147.63
 	},
 	{
@@ -16783,6 +17545,7 @@
 		"hand_id" : 27280410129,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 8425.19
 	},
 	{
@@ -16805,6 +17568,7 @@
 		"hand_id" : 27283730043,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 46865.60
 	},
 	{
@@ -16827,6 +17591,7 @@
 		"hand_id" : 27279000216,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2793.76
 	},
 	{
@@ -16849,6 +17614,7 @@
 		"hand_id" : 27264960711,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 830.50
 	},
 	{
@@ -16871,6 +17637,7 @@
 		"hand_id" : 27272860377,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 911.64
 	},
 	{
@@ -16893,6 +17660,7 @@
 		"hand_id" : 27281370117,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 90.04
 	},
 	{
@@ -16915,6 +17683,7 @@
 		"hand_id" : 27283150057,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 41858.00
 	},
 	{
@@ -16937,6 +17706,7 @@
 		"hand_id" : 27285020003,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 585.00
 	},
 	{
@@ -16959,6 +17729,7 @@
 		"hand_id" : 27260240825,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -75.39,
+		"EVCHOP_FEE" : 2.26,
 		"remaining_pot_after_rake" : 479.33
 	},
 	{
@@ -16981,6 +17752,7 @@
 		"hand_id" : 27279010240,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 11039.01
 	},
 	{
@@ -17003,6 +17775,7 @@
 		"hand_id" : 27276090277,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2579.43
 	},
 	{
@@ -17025,6 +17798,7 @@
 		"hand_id" : 27280710136,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5199.01
 	},
 	{
@@ -17047,6 +17821,7 @@
 		"hand_id" : 27283150064,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 51106.16
 	},
 	{
@@ -17069,6 +17844,7 @@
 		"hand_id" : 27264960716,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 700.40
 	},
 	{
@@ -17091,6 +17867,7 @@
 		"hand_id" : 27283120071,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 43144.90
 	},
 	{
@@ -17113,6 +17890,7 @@
 		"hand_id" : 8805840038,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 25.85,
+		"EVCHOP_FEE" : 0.39,
 		"remaining_pot_after_rake" : 64.59
 	},
 	{
@@ -17135,6 +17913,7 @@
 		"hand_id" : 27278480140,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 226.05
 	},
 	{
@@ -17157,6 +17936,7 @@
 		"hand_id" : 27282170088,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 386.51
 	},
 	{
@@ -17179,6 +17959,7 @@
 		"hand_id" : 27285250007,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 106.93
 	},
 	{
@@ -17201,6 +17982,7 @@
 		"hand_id" : 27281680099,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 528.24
 	},
 	{
@@ -17223,6 +18005,7 @@
 		"hand_id" : 27266820005,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : -852.71,
+		"EVCHOP_FEE" : 25.58,
 		"remaining_pot_after_rake" : 2205.80
 	},
 	{
@@ -17245,6 +18028,7 @@
 		"hand_id" : 27281830145,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 381.12
 	},
 	{
@@ -17267,6 +18051,7 @@
 		"hand_id" : 27284560024,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 823.62
 	},
 	{
@@ -17289,6 +18074,7 @@
 		"hand_id" : 27281700122,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 85.17,
+		"EVCHOP_FEE" : 4.80,
 		"remaining_pot_after_rake" : 330.32
 	},
 	{
@@ -17311,6 +18097,7 @@
 		"hand_id" : 27277840170,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 742.75
 	},
 	{
@@ -17333,6 +18120,7 @@
 		"hand_id" : 27282600100,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2752.23
 	},
 	{
@@ -17355,6 +18143,7 @@
 		"hand_id" : 27282170104,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 389.73
 	},
 	{
@@ -17377,6 +18166,7 @@
 		"hand_id" : 27284860009,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2678.39
 	},
 	{
@@ -17399,6 +18189,7 @@
 		"hand_id" : 27285850024,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : -0.87,
+		"EVCHOP_FEE" : 0.03,
 		"remaining_pot_after_rake" : 288.21
 	},
 	{
@@ -17421,6 +18212,7 @@
 		"hand_id" : 27285650033,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 1941.44,
+		"EVCHOP_FEE" : 247.34,
 		"remaining_pot_after_rake" : 12127.38
 	},
 	{
@@ -17443,6 +18235,7 @@
 		"hand_id" : 27267890759,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2171.95
 	},
 	{
@@ -17465,6 +18258,7 @@
 		"hand_id" : 27281230178,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1728.40
 	},
 	{
@@ -17487,6 +18281,7 @@
 		"hand_id" : 27268910529,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 927.16
 	},
 	{
@@ -17509,6 +18304,7 @@
 		"hand_id" : 27273350387,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 779.34
 	},
 	{
@@ -17531,6 +18327,7 @@
 		"hand_id" : 27277770269,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 172.72,
+		"EVCHOP_FEE" : 3.37,
 		"remaining_pot_after_rake" : 457.92
 	},
 	{
@@ -17553,6 +18350,7 @@
 		"hand_id" : 27277840186,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -14.22,
+		"EVCHOP_FEE" : 0.43,
 		"remaining_pot_after_rake" : 853.32
 	},
 	{
@@ -17575,6 +18373,7 @@
 		"hand_id" : 27284520064,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 81.73,
+		"EVCHOP_FEE" : 1.50,
 		"remaining_pot_after_rake" : 213.36
 	},
 	{
@@ -17597,6 +18396,7 @@
 		"hand_id" : 27283730082,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 26148.36
 	},
 	{
@@ -17619,6 +18419,7 @@
 		"hand_id" : 27267890774,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2955.51
 	},
 	{
@@ -17641,6 +18442,7 @@
 		"hand_id" : 27282260152,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 436.83,
+		"EVCHOP_FEE" : 9.96,
 		"remaining_pot_after_rake" : 1205.62
 	},
 	{
@@ -17663,6 +18465,7 @@
 		"hand_id" : 27272050555,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 35.01,
+		"EVCHOP_FEE" : 2.03,
 		"remaining_pot_after_rake" : 137.71
 	},
 	{
@@ -17685,6 +18488,7 @@
 		"hand_id" : 27267890777,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2604.08
 	},
 	{
@@ -17707,6 +18511,7 @@
 		"hand_id" : 27284710080,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 285.53,
 		"remaining_pot_after_rake" : 9517.61
 	},
 	{
@@ -17729,6 +18534,7 @@
 		"hand_id" : 27276090340,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2702.45
 	},
 	{
@@ -17751,6 +18557,7 @@
 		"hand_id" : 27283530103,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 22.69,
+		"EVCHOP_FEE" : 3.07,
 		"remaining_pot_after_rake" : 147.86
 	},
 	{
@@ -17773,6 +18580,7 @@
 		"hand_id" : 27278450301,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1307.20
 	},
 	{
@@ -17795,6 +18603,7 @@
 		"hand_id" : 27260240900,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 204.96
 	},
 	{
@@ -17817,6 +18626,7 @@
 		"hand_id" : 27284520090,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 104.20,
+		"EVCHOP_FEE" : 2.40,
 		"remaining_pot_after_rake" : 288.46
 	},
 	{
@@ -17839,6 +18649,7 @@
 		"hand_id" : 27276090357,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3252.52
 	},
 	{
@@ -17861,6 +18672,7 @@
 		"hand_id" : 27287040021,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 95.40
 	},
 	{
@@ -17883,6 +18695,7 @@
 		"hand_id" : 27269210704,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -9.05,
+		"EVCHOP_FEE" : 0.27,
 		"remaining_pot_after_rake" : 9035.96
 	},
 	{
@@ -17905,6 +18718,7 @@
 		"hand_id" : 27284520092,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -70.05,
+		"EVCHOP_FEE" : 2.10,
 		"remaining_pot_after_rake" : 176.67
 	},
 	{
@@ -17927,6 +18741,7 @@
 		"hand_id" : 27287150011,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1132.83
 	},
 	{
@@ -17949,6 +18764,7 @@
 		"hand_id" : 27287150015,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 649.71
 	},
 	{
@@ -17971,6 +18787,7 @@
 		"hand_id" : 27282170146,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 73.09,
+		"EVCHOP_FEE" : 5.35,
 		"remaining_pot_after_rake" : 324.36
 	},
 	{
@@ -17993,6 +18810,7 @@
 		"hand_id" : 27266820119,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3837.52
 	},
 	{
@@ -18015,6 +18833,7 @@
 		"hand_id" : 27286780049,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 722.64
 	},
 	{
@@ -18037,6 +18856,7 @@
 		"hand_id" : 27282280153,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 683.46
 	},
 	{
@@ -18059,6 +18879,7 @@
 		"hand_id" : 27277320356,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1144.27
 	},
 	{
@@ -18081,6 +18902,7 @@
 		"hand_id" : 27277750054,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1048.01
 	},
 	{
@@ -18103,6 +18925,7 @@
 		"hand_id" : 27286840058,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 583.52,
+		"EVCHOP_FEE" : 63.46,
 		"remaining_pot_after_rake" : 3282.48
 	},
 	{
@@ -18125,6 +18948,7 @@
 		"hand_id" : 27269360680,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2312.93
 	},
 	{
@@ -18147,6 +18971,7 @@
 		"hand_id" : 27288170006,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -1794.53,
+		"EVCHOP_FEE" : 53.84,
 		"remaining_pot_after_rake" : 28828.77
 	},
 	{
@@ -18169,6 +18994,7 @@
 		"hand_id" : 27287940012,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1260.40
 	},
 	{
@@ -18191,6 +19017,7 @@
 		"hand_id" : 27277750061,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2916.55
 	},
 	{
@@ -18213,6 +19040,7 @@
 		"hand_id" : 27284860088,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5597.24
 	},
 	{
@@ -18235,6 +19063,7 @@
 		"hand_id" : 27287150032,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 729.71
 	},
 	{
@@ -18257,6 +19086,7 @@
 		"hand_id" : 27285850074,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 318.35
 	},
 	{
@@ -18279,6 +19109,7 @@
 		"hand_id" : 27282010197,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 501.35
 	},
 	{
@@ -18301,6 +19132,7 @@
 		"hand_id" : 27288380010,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 22985.30
 	},
 	{
@@ -18323,6 +19155,7 @@
 		"hand_id" : 27287410038,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 11221.11
 	},
 	{
@@ -18345,6 +19178,7 @@
 		"hand_id" : 27288100038,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 14210.37
 	},
 	{
@@ -18367,6 +19201,7 @@
 		"hand_id" : 27288660019,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1372.16
 	},
 	{
@@ -18389,6 +19224,7 @@
 		"hand_id" : 27279000343,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 1306.90,
+		"EVCHOP_FEE" : 27.44,
 		"remaining_pot_after_rake" : 3626.54
 	},
 	{
@@ -18411,6 +19247,7 @@
 		"hand_id" : 27254801221,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 581.16
 	},
 	{
@@ -18433,6 +19270,7 @@
 		"hand_id" : 27278450359,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1814.51
 	},
 	{
@@ -18455,6 +19293,7 @@
 		"hand_id" : 27275070443,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 551.42
 	},
 	{
@@ -18477,6 +19316,7 @@
 		"hand_id" : 27280710267,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 1115.30,
+		"EVCHOP_FEE" : 33.15,
 		"remaining_pot_after_rake" : 3335.68
 	},
 	{
@@ -18499,6 +19339,7 @@
 		"hand_id" : 27276090410,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4682.78
 	},
 	{
@@ -18521,6 +19362,7 @@
 		"hand_id" : 27284860114,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 2923.93,
+		"EVCHOP_FEE" : 12.57,
 		"remaining_pot_after_rake" : 6266.71
 	},
 	{
@@ -18543,6 +19385,7 @@
 		"hand_id" : 27289190006,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 475.25
 	},
 	{
@@ -18565,6 +19408,7 @@
 		"hand_id" : 27279010357,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4606.18
 	},
 	{
@@ -18587,6 +19431,7 @@
 		"hand_id" : 27281900189,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 58.12,
+		"EVCHOP_FEE" : 15.87,
 		"remaining_pot_after_rake" : 645.21
 	},
 	{
@@ -18609,6 +19454,7 @@
 		"hand_id" : 27287940048,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1441.80
 	},
 	{
@@ -18631,6 +19477,7 @@
 		"hand_id" : 27284050027,
 		"noOfUser" : 8,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1445.35
 	},
 	{
@@ -18653,6 +19500,7 @@
 		"hand_id" : 27279280207,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1781.75
 	},
 	{
@@ -18675,6 +19523,7 @@
 		"hand_id" : 27277330393,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4202.61
 	},
 	{
@@ -18697,6 +19546,7 @@
 		"hand_id" : 27282870224,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 615.12
 	},
 	{
@@ -18719,6 +19569,7 @@
 		"hand_id" : 27284050037,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1377.40
 	},
 	{
@@ -18741,6 +19592,7 @@
 		"hand_id" : 27287910025,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1947.32
 	},
 	{
@@ -18763,6 +19615,7 @@
 		"hand_id" : 27282600210,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2977.91
 	},
 	{
@@ -18785,6 +19638,7 @@
 		"hand_id" : 27278720364,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12362.43
 	},
 	{
@@ -18807,6 +19661,7 @@
 		"hand_id" : 27286810082,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -0.91,
+		"EVCHOP_FEE" : 0.03,
 		"remaining_pot_after_rake" : 242.57
 	},
 	{
@@ -18829,6 +19684,7 @@
 		"hand_id" : 27286520106,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1074.35
 	},
 	{
@@ -18851,6 +19707,7 @@
 		"hand_id" : 27279010373,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 5218.52,
+		"EVCHOP_FEE" : 15.65,
 		"remaining_pot_after_rake" : 10958.83
 	},
 	{
@@ -18873,6 +19730,7 @@
 		"hand_id" : 27254801244,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 445.93
 	},
 	{
@@ -18895,6 +19753,7 @@
 		"hand_id" : 27278680333,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 24341.11
 	},
 	{
@@ -18917,6 +19776,7 @@
 		"hand_id" : 27281370285,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 224.75
 	},
 	{
@@ -18939,6 +19799,7 @@
 		"hand_id" : 27284050049,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1541.20
 	},
 	{
@@ -18961,6 +19822,7 @@
 		"hand_id" : 27282170222,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 489.50
 	},
 	{
@@ -18983,6 +19845,7 @@
 		"hand_id" : 27290060005,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 4151.08,
+		"EVCHOP_FEE" : 59.07,
 		"remaining_pot_after_rake" : 10271.17
 	},
 	{
@@ -19005,6 +19868,7 @@
 		"hand_id" : 27288180058,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 15396.69
 	},
 	{
@@ -19027,6 +19891,7 @@
 		"hand_id" : 27288680038,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 220635.39
 	},
 	{
@@ -19049,6 +19914,7 @@
 		"hand_id" : 27281580242,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1980.93
 	},
 	{
@@ -19071,6 +19937,7 @@
 		"hand_id" : 27289150032,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 14840.68
 	},
 	{
@@ -19093,6 +19960,7 @@
 		"hand_id" : 27287200094,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1369.35
 	},
 	{
@@ -19115,6 +19983,7 @@
 		"hand_id" : 27281700238,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 239.08
 	},
 	{
@@ -19137,6 +20006,7 @@
 		"hand_id" : 27287710087,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4230.06
 	},
 	{
@@ -19159,6 +20029,7 @@
 		"hand_id" : 27287740092,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1182.55
 	},
 	{
@@ -19181,6 +20052,7 @@
 		"hand_id" : 27263390945,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 365.24
 	},
 	{
@@ -19203,6 +20075,7 @@
 		"hand_id" : 27288660091,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1008.53
 	},
 	{
@@ -19225,6 +20098,7 @@
 		"hand_id" : 27281580256,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2590.48
 	},
 	{
@@ -19247,6 +20121,7 @@
 		"hand_id" : 27278020413,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 458.68,
+		"EVCHOP_FEE" : 11.96,
 		"remaining_pot_after_rake" : 1315.87
 	},
 	{
@@ -19269,6 +20144,7 @@
 		"hand_id" : 27266820223,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3647.76
 	},
 	{
@@ -19291,6 +20167,7 @@
 		"hand_id" : 27260241007,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 599.15
 	},
 	{
@@ -19313,6 +20190,7 @@
 		"hand_id" : 27286520133,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -381.75,
+		"EVCHOP_FEE" : 11.45,
 		"remaining_pot_after_rake" : 178.58
 	},
 	{
@@ -19335,6 +20213,7 @@
 		"hand_id" : 27278450396,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1517.80
 	},
 	{
@@ -19357,6 +20236,7 @@
 		"hand_id" : 27290890016,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2032.60
 	},
 	{
@@ -19379,6 +20259,7 @@
 		"hand_id" : 27290420008,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : -9253.56,
+		"EVCHOP_FEE" : 277.61,
 		"remaining_pot_after_rake" : 2888.62
 	},
 	{
@@ -19401,6 +20282,7 @@
 		"hand_id" : 27250550001,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 1237.27,
+		"EVCHOP_FEE" : 243.44,
 		"remaining_pot_after_rake" : 10589.27
 	},
 	{
@@ -19423,6 +20305,7 @@
 		"hand_id" : 27275070496,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 420.06
 	},
 	{
@@ -19445,6 +20328,7 @@
 		"hand_id" : 27286510060,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6317.43
 	},
 	{
@@ -19467,6 +20351,7 @@
 		"hand_id" : 27290420015,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 18244.10
 	},
 	{
@@ -19489,6 +20374,7 @@
 		"hand_id" : 27283910247,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1973.98
 	},
 	{
@@ -19511,6 +20397,7 @@
 		"hand_id" : 27266820239,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3105.69
 	},
 	{
@@ -19533,6 +20420,7 @@
 		"hand_id" : 27290540016,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -148.08,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 219.52
 	},
 	{
@@ -19555,6 +20443,7 @@
 		"hand_id" : 27284060200,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 302.77
 	},
 	{
@@ -19577,6 +20466,7 @@
 		"hand_id" : 27281550331,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 705.51
 	},
 	{
@@ -19599,6 +20489,7 @@
 		"hand_id" : 27290510006,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4171.64
 	},
 	{
@@ -19621,6 +20512,7 @@
 		"hand_id" : 27288780066,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -11.86,
+		"EVCHOP_FEE" : 0.36,
 		"remaining_pot_after_rake" : 126.24
 	},
 	{
@@ -19643,6 +20535,7 @@
 		"hand_id" : 27290990032,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 376.27
 	},
 	{
@@ -19665,6 +20558,7 @@
 		"hand_id" : 27291120038,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 235.52
 	},
 	{
@@ -19687,6 +20581,7 @@
 		"hand_id" : 27277330453,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 1649.28,
+		"EVCHOP_FEE" : 84.72,
 		"remaining_pot_after_rake" : 6122.50
 	},
 	{
@@ -19709,6 +20604,7 @@
 		"hand_id" : 27291120043,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 911.39
 	},
 	{
@@ -19731,6 +20627,7 @@
 		"hand_id" : 27286520176,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : -0.84,
+		"EVCHOP_FEE" : 0.03,
 		"remaining_pot_after_rake" : 841.50
 	},
 	{
@@ -19753,6 +20650,7 @@
 		"hand_id" : 27292280013,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 860.16
 	},
 	{
@@ -19775,6 +20673,7 @@
 		"hand_id" : 27254801307,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 209.64
 	},
 	{
@@ -19797,6 +20696,7 @@
 		"hand_id" : 27292240026,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4247.86
 	},
 	{
@@ -19819,6 +20719,7 @@
 		"hand_id" : 27292930018,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2793.84
 	},
 	{
@@ -19841,6 +20742,7 @@
 		"hand_id" : 8806600053,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -417.45,
+		"EVCHOP_FEE" : 12.52,
 		"remaining_pot_after_rake" : 1122.95
 	},
 	{
@@ -19863,6 +20765,7 @@
 		"hand_id" : 27284560198,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 744.87
 	},
 	{
@@ -19885,6 +20788,7 @@
 		"hand_id" : 27280280291,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2904.87
 	},
 	{
@@ -19907,6 +20811,7 @@
 		"hand_id" : 27246310030,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 661.67
 	},
 	{
@@ -19929,6 +20834,7 @@
 		"hand_id" : 27291420057,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3513.16
 	},
 	{
@@ -19951,6 +20857,7 @@
 		"hand_id" : 27292930040,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 1206.80,
+		"EVCHOP_FEE" : 128.81,
 		"remaining_pot_after_rake" : 6707.22
 	},
 	{
@@ -19973,6 +20880,7 @@
 		"hand_id" : 27265620989,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1196.65
 	},
 	{
@@ -19995,6 +20903,7 @@
 		"hand_id" : 27281370364,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -49.71,
+		"EVCHOP_FEE" : 1.49,
 		"remaining_pot_after_rake" : 119.85
 	},
 	{
@@ -20017,6 +20926,7 @@
 		"hand_id" : 27293090011,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2592.69
 	},
 	{
@@ -20039,6 +20949,7 @@
 		"hand_id" : 27293770001,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : -6.10,
+		"EVCHOP_FEE" : 0.18,
 		"remaining_pot_after_rake" : 262.78
 	},
 	{
@@ -20061,6 +20972,7 @@
 		"hand_id" : 27277840299,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 964.81
 	},
 	{
@@ -20083,6 +20995,7 @@
 		"hand_id" : 27270960720,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 700.40
 	},
 	{
@@ -20105,6 +21018,7 @@
 		"hand_id" : 27287620136,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 249.68
 	},
 	{
@@ -20127,6 +21041,7 @@
 		"hand_id" : 27285020218,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 247.25,
+		"EVCHOP_FEE" : 6.78,
 		"remaining_pot_after_rake" : 720.36
 	},
 	{
@@ -20149,6 +21064,7 @@
 		"hand_id" : 27291400054,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1886.21
 	},
 	{
@@ -20171,6 +21087,7 @@
 		"hand_id" : 27293810005,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 2173.26,
+		"EVCHOP_FEE" : 293.43,
 		"remaining_pot_after_rake" : 14127.38
 	},
 	{
@@ -20193,6 +21110,7 @@
 		"hand_id" : 27288680123,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 37664.00
 	},
 	{
@@ -20215,6 +21133,7 @@
 		"hand_id" : 27282170333,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 452.46
 	},
 	{
@@ -20237,6 +21156,7 @@
 		"hand_id" : 27290740119,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 19823.64
 	},
 	{
@@ -20259,6 +21179,7 @@
 		"hand_id" : 27291440064,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 52.69,
+		"EVCHOP_FEE" : 3.39,
 		"remaining_pot_after_rake" : 218.46
 	},
 	{
@@ -20281,6 +21202,7 @@
 		"hand_id" : 27284060256,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 373.85
 	},
 	{
@@ -20303,6 +21225,7 @@
 		"hand_id" : 27287040191,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 93.87,
+		"EVCHOP_FEE" : 1.13,
 		"remaining_pot_after_rake" : 225.50
 	},
 	{
@@ -20325,6 +21248,7 @@
 		"hand_id" : 8808060034,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.24
 	},
 	{
@@ -20347,6 +21271,7 @@
 		"hand_id" : 27292370066,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2604.08
 	},
 	{
@@ -20369,6 +21294,7 @@
 		"hand_id" : 27285650277,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5471.10
 	},
 	{
@@ -20391,6 +21317,7 @@
 		"hand_id" : 27287500184,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 13036.07
 	},
 	{
@@ -20413,6 +21340,7 @@
 		"hand_id" : 27287500187,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 13828.00
 	},
 	{
@@ -20435,6 +21363,7 @@
 		"hand_id" : 27274590317,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 318.66
 	},
 	{
@@ -20457,6 +21386,7 @@
 		"hand_id" : 8808250040,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 23.01,
+		"EVCHOP_FEE" : 0.17,
 		"remaining_pot_after_rake" : 51.75
 	},
 	{
@@ -20479,6 +21409,7 @@
 		"hand_id" : 27288660189,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5654.00
 	},
 	{
@@ -20501,6 +21432,7 @@
 		"hand_id" : 8808060052,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 29.24
 	},
 	{
@@ -20523,6 +21455,7 @@
 		"hand_id" : 27294320005,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 43799.20
 	},
 	{
@@ -20545,6 +21478,7 @@
 		"hand_id" : 27289830121,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 81.21,
+		"EVCHOP_FEE" : 3.07,
 		"remaining_pot_after_rake" : 264.73
 	},
 	{
@@ -20567,6 +21501,7 @@
 		"hand_id" : 27288590157,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3290.78
 	},
 	{
@@ -20589,6 +21524,7 @@
 		"hand_id" : 27291400083,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3033.30
 	},
 	{
@@ -20611,6 +21547,7 @@
 		"hand_id" : 27275070592,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 255.32,
+		"EVCHOP_FEE" : 0.92,
 		"remaining_pot_after_rake" : 541.45
 	},
 	{
@@ -20633,6 +21570,7 @@
 		"hand_id" : 27283590286,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 686.36
 	},
 	{
@@ -20655,6 +21593,7 @@
 		"hand_id" : 27279000512,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -203.61,
+		"EVCHOP_FEE" : 6.11,
 		"remaining_pot_after_rake" : 841.07
 	},
 	{
@@ -20677,6 +21616,7 @@
 		"hand_id" : 27287720193,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 498.10
 	},
 	{
@@ -20699,6 +21639,7 @@
 		"hand_id" : 27274670719,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4601.84
 	},
 	{
@@ -20721,6 +21662,7 @@
 		"hand_id" : 27289160143,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 26.14,
+		"EVCHOP_FEE" : 4.70,
 		"remaining_pot_after_rake" : 209.07
 	},
 	{
@@ -20743,6 +21685,7 @@
 		"hand_id" : 27269880824,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 566.34
 	},
 	{
@@ -20765,6 +21708,7 @@
 		"hand_id" : 27280930411,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 576.61
 	},
 	{
@@ -20787,6 +21731,7 @@
 		"hand_id" : 27277750207,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 2721.27,
+		"EVCHOP_FEE" : 49.44,
 		"remaining_pot_after_rake" : 7090.69
 	},
 	{
@@ -20809,6 +21754,7 @@
 		"hand_id" : 27294280029,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 448.94,
+		"EVCHOP_FEE" : 26.45,
 		"remaining_pot_after_rake" : 1779.54
 	},
 	{
@@ -20831,6 +21777,7 @@
 		"hand_id" : 27287130236,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1753.54
 	},
 	{
@@ -20853,6 +21800,7 @@
 		"hand_id" : 27289610139,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2260.19
 	},
 	{
@@ -20875,6 +21823,7 @@
 		"hand_id" : 27293940053,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 742.52
 	},
 	{
@@ -20897,6 +21846,7 @@
 		"hand_id" : 27279050414,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 501.28
 	},
 	{
@@ -20919,6 +21869,7 @@
 		"hand_id" : 27286160236,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 142.71
 	},
 	{
@@ -20941,6 +21892,7 @@
 		"hand_id" : 27281520408,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 174.84
 	},
 	{
@@ -20963,6 +21915,7 @@
 		"hand_id" : 27260241130,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 293.70
 	},
 	{
@@ -20985,6 +21938,7 @@
 		"hand_id" : 27284000322,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 557.07
 	},
 	{
@@ -21007,6 +21961,7 @@
 		"hand_id" : 27288660232,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1658.20
 	},
 	{
@@ -21029,6 +21984,7 @@
 		"hand_id" : 27268900953,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4456.97
 	},
 	{
@@ -21051,6 +22007,7 @@
 		"hand_id" : 27291440118,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -77.29,
+		"EVCHOP_FEE" : 2.32,
 		"remaining_pot_after_rake" : 58.04
 	},
 	{
@@ -21073,6 +22030,7 @@
 		"hand_id" : 27282170394,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 407.19
 	},
 	{
@@ -21095,6 +22053,7 @@
 		"hand_id" : 27279050435,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -81.96,
+		"EVCHOP_FEE" : 2.46,
 		"remaining_pot_after_rake" : 396.68
 	},
 	{
@@ -21117,6 +22076,7 @@
 		"hand_id" : 27286960291,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 844.52,
+		"EVCHOP_FEE" : 6.88,
 		"remaining_pot_after_rake" : 1918.38
 	},
 	{
@@ -21139,6 +22099,7 @@
 		"hand_id" : 27295850007,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 1461.23,
+		"EVCHOP_FEE" : 7.19,
 		"remaining_pot_after_rake" : 3162.26
 	},
 	{
@@ -21161,6 +22122,7 @@
 		"hand_id" : 27294530048,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 367.84
 	},
 	{
@@ -21183,6 +22145,7 @@
 		"hand_id" : 27296030009,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12885.32
 	},
 	{
@@ -21205,6 +22168,7 @@
 		"hand_id" : 27277770511,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 282.83
 	},
 	{
@@ -21227,6 +22191,7 @@
 		"hand_id" : 27277770513,
 		"noOfUser" : 12,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 338.61
 	},
 	{
@@ -21249,6 +22214,7 @@
 		"hand_id" : 27291440136,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -8.33,
+		"EVCHOP_FEE" : 0.25,
 		"remaining_pot_after_rake" : 84.59
 	},
 	{
@@ -21271,6 +22237,7 @@
 		"hand_id" : 27282970384,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 74.76,
+		"EVCHOP_FEE" : 4.21,
 		"remaining_pot_after_rake" : 289.78
 	},
 	{
@@ -21293,6 +22260,7 @@
 		"hand_id" : 27295340040,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 20343.35
 	},
 	{
@@ -21315,6 +22283,7 @@
 		"hand_id" : 27296240007,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : -328.87,
+		"EVCHOP_FEE" : 9.87,
 		"remaining_pot_after_rake" : 4195.58
 	},
 	{
@@ -21337,6 +22306,7 @@
 		"hand_id" : 27278480462,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 191.16
 	},
 	{
@@ -21359,6 +22329,7 @@
 		"hand_id" : 27286350311,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -1102.73,
+		"EVCHOP_FEE" : 33.08,
 		"remaining_pot_after_rake" : 6081.18
 	},
 	{
@@ -21381,6 +22352,7 @@
 		"hand_id" : 27293940101,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 546.01
 	},
 	{
@@ -21403,6 +22375,7 @@
 		"hand_id" : 27281680428,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 354.36
 	},
 	{
@@ -21425,6 +22398,7 @@
 		"hand_id" : 27293780084,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 172.40
 	},
 	{
@@ -21447,6 +22421,7 @@
 		"hand_id" : 27289680203,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 258.56
 	},
 	{
@@ -21469,6 +22444,7 @@
 		"hand_id" : 27262761058,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 680.10
 	},
 	{
@@ -21491,6 +22467,7 @@
 		"hand_id" : 27262761059,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 261.44
 	},
 	{
@@ -21513,6 +22490,7 @@
 		"hand_id" : 27281370483,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 6.52,
+		"EVCHOP_FEE" : 5.67,
 		"remaining_pot_after_rake" : 202.11
 	},
 	{
@@ -21535,6 +22513,7 @@
 		"hand_id" : 27287760255,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 572.91
 	},
 	{
@@ -21557,6 +22536,7 @@
 		"hand_id" : 27295930040,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2448.74
 	},
 	{
@@ -21579,6 +22559,7 @@
 		"hand_id" : 27297360012,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 30332.52
 	},
 	{
@@ -21601,6 +22582,7 @@
 		"hand_id" : 27289680218,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1037.96
 	},
 	{
@@ -21623,6 +22605,7 @@
 		"hand_id" : 27285850340,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 118.40,
+		"EVCHOP_FEE" : 3.53,
 		"remaining_pot_after_rake" : 354.40
 	},
 	{
@@ -21645,6 +22628,7 @@
 		"hand_id" : 27283910462,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2936.16
 	},
 	{
@@ -21667,6 +22651,7 @@
 		"hand_id" : 27296700008,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 25759.79
 	},
 	{
@@ -21689,6 +22674,7 @@
 		"hand_id" : 27297020001,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1847.60
 	},
 	{
@@ -21711,6 +22697,7 @@
 		"hand_id" : 27273350711,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 239.13
 	},
 	{
@@ -21733,6 +22720,7 @@
 		"hand_id" : 27291120179,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 204.83
 	},
 	{
@@ -21755,6 +22743,7 @@
 		"hand_id" : 27273350714,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 346.84
 	},
 	{
@@ -21777,6 +22766,7 @@
 		"hand_id" : 27295920081,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 19166.78
 	},
 	{
@@ -21799,6 +22789,7 @@
 		"hand_id" : 27296960051,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 21973.06
 	},
 	{
@@ -21821,6 +22812,7 @@
 		"hand_id" : 27282600429,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4807.34
 	},
 	{
@@ -21843,6 +22835,7 @@
 		"hand_id" : 27297870023,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 509.46
 	},
 	{
@@ -21865,6 +22858,7 @@
 		"hand_id" : 27296830068,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 71690.00
 	},
 	{
@@ -21887,6 +22881,7 @@
 		"hand_id" : 27289560283,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 850.16
 	},
 	{
@@ -21909,6 +22904,7 @@
 		"hand_id" : 27293740194,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 12871.54
 	},
 	{
@@ -21931,6 +22927,7 @@
 		"hand_id" : 27294170134,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1569.82
 	},
 	{
@@ -21953,6 +22950,7 @@
 		"hand_id" : 27298490018,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 31613.52
 	},
 	{
@@ -21975,6 +22973,7 @@
 		"hand_id" : 27254801485,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 183.75
 	},
 	{
@@ -21997,6 +22996,7 @@
 		"hand_id" : 27298200004,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 56.00,
+		"EVCHOP_FEE" : 51.14,
 		"remaining_pot_after_rake" : 1816.89
 	},
 	{
@@ -22019,6 +23019,7 @@
 		"hand_id" : 27262761118,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 227.83
 	},
 	{
@@ -22041,6 +23042,7 @@
 		"hand_id" : 27298840005,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : -160.91,
+		"EVCHOP_FEE" : 4.83,
 		"remaining_pot_after_rake" : 702.35
 	},
 	{
@@ -22063,6 +23065,7 @@
 		"hand_id" : 27296690067,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 6409.57
 	},
 	{
@@ -22085,6 +23088,7 @@
 		"hand_id" : 27289700275,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 123.34
 	},
 	{
@@ -22107,6 +23111,7 @@
 		"hand_id" : 27298600016,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 28508.36
 	},
 	{
@@ -22129,6 +23134,7 @@
 		"hand_id" : 27287620417,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 198.00
 	},
 	{
@@ -22151,6 +23157,7 @@
 		"hand_id" : 27283910538,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4242.62
 	},
 	{
@@ -22173,6 +23180,7 @@
 		"hand_id" : 27285020417,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 540.07
 	},
 	{
@@ -22195,6 +23203,7 @@
 		"hand_id" : 27296760111,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7977.44
 	},
 	{
@@ -22217,6 +23226,7 @@
 		"hand_id" : 27278460658,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 768.42
 	},
 	{
@@ -22239,6 +23249,7 @@
 		"hand_id" : 27277080733,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -69.30,
+		"EVCHOP_FEE" : 2.08,
 		"remaining_pot_after_rake" : 540.72
 	},
 	{
@@ -22261,6 +23272,7 @@
 		"hand_id" : 27289190326,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 320.77
 	},
 	{
@@ -22283,6 +23295,7 @@
 		"hand_id" : 27283590462,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5481.22
 	},
 	{
@@ -22305,6 +23318,7 @@
 		"hand_id" : 27277080739,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 861.39
 	},
 	{
@@ -22327,6 +23341,7 @@
 		"hand_id" : 27277080740,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 686.60
 	},
 	{
@@ -22349,6 +23364,7 @@
 		"hand_id" : 27289830342,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1376.11
 	},
 	{
@@ -22371,6 +23387,7 @@
 		"hand_id" : 27260241308,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 217.72
 	},
 	{
@@ -22393,6 +23410,7 @@
 		"hand_id" : 27294530190,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 193.23
 	},
 	{
@@ -22415,6 +23433,7 @@
 		"hand_id" : 27288660390,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1260.40
 	},
 	{
@@ -22437,6 +23456,7 @@
 		"hand_id" : 27289190334,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -140.10,
+		"EVCHOP_FEE" : 4.20,
 		"remaining_pot_after_rake" : 548.10
 	},
 	{
@@ -22459,6 +23479,7 @@
 		"hand_id" : 27281550622,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 535.67
 	},
 	{
@@ -22481,6 +23502,7 @@
 		"hand_id" : 27300180014,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 138.10
 	},
 	{
@@ -22503,6 +23525,7 @@
 		"hand_id" : 27281120728,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -884.63,
+		"EVCHOP_FEE" : 26.54,
 		"remaining_pot_after_rake" : 3823.33
 	},
 	{
@@ -22525,6 +23548,7 @@
 		"hand_id" : 27280030334,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 123.36
 	},
 	{
@@ -22547,6 +23571,7 @@
 		"hand_id" : 27254801589,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 502.22
 	},
 	{
@@ -22569,6 +23594,7 @@
 		"hand_id" : 27278450784,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 520.42,
+		"EVCHOP_FEE" : 40.37,
 		"remaining_pot_after_rake" : 2386.41
 	},
 	{
@@ -22591,6 +23617,7 @@
 		"hand_id" : 27298400126,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 6853.60,
+		"EVCHOP_FEE" : 220.10,
 		"remaining_pot_after_rake" : 21043.73
 	},
 	{
@@ -22613,6 +23640,7 @@
 		"hand_id" : 27284520515,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 208.26
 	},
 	{
@@ -22635,6 +23663,7 @@
 		"hand_id" : 27290540259,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 476.57
 	},
 	{
@@ -22657,6 +23686,7 @@
 		"hand_id" : 27260241368,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 213.83
 	},
 	{
@@ -22679,6 +23709,7 @@
 		"hand_id" : 27274320833,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 7094.24
 	},
 	{
@@ -22701,6 +23732,7 @@
 		"hand_id" : 27277080815,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1003.66
 	},
 	{
@@ -22723,6 +23755,7 @@
 		"hand_id" : 27284090597,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 192.21
 	},
 	{
@@ -22745,6 +23778,7 @@
 		"hand_id" : 27296560265,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -886.41,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4095.40
 	},
 	{
@@ -22767,6 +23801,7 @@
 		"hand_id" : 27293990304,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 162.12
 	},
 	{
@@ -22789,6 +23824,7 @@
 		"hand_id" : 27268021141,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3463.24
 	},
 	{
@@ -22811,6 +23847,7 @@
 		"hand_id" : 27279400805,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 691.27
 	},
 	{
@@ -22833,6 +23870,7 @@
 		"hand_id" : 27284520559,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 113.99
 	},
 	{
@@ -22855,6 +23893,7 @@
 		"hand_id" : 27287130569,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 350.51,
+		"EVCHOP_FEE" : 53.64,
 		"remaining_pot_after_rake" : 2489.07
 	},
 	{
@@ -22877,6 +23916,7 @@
 		"hand_id" : 27301430024,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 15652.82
 	},
 	{
@@ -22899,6 +23939,7 @@
 		"hand_id" : 27277080853,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -233.10,
+		"EVCHOP_FEE" : 6.99,
 		"remaining_pot_after_rake" : 690.07
 	},
 	{
@@ -22921,6 +23962,7 @@
 		"hand_id" : 27287880542,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : -9.79,
+		"EVCHOP_FEE" : 0.29,
 		"remaining_pot_after_rake" : 259.09
 	},
 	{
@@ -22943,6 +23985,7 @@
 		"hand_id" : 27300670079,
 		"noOfUser" : 10,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1902.85
 	},
 	{
@@ -22965,6 +24008,7 @@
 		"hand_id" : 27286510420,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 2727.11
 	},
 	{
@@ -22987,6 +24031,7 @@
 		"hand_id" : 27290970343,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 484.35,
+		"EVCHOP_FEE" : 55.29,
 		"remaining_pot_after_rake" : 2811.85
 	},
 	{
@@ -23009,6 +24054,7 @@
 		"hand_id" : 27302150009,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 3245.43
 	},
 	{
@@ -23031,6 +24077,7 @@
 		"hand_id" : 27301470003,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : -86.86,
+		"EVCHOP_FEE" : 2.61,
 		"remaining_pot_after_rake" : 590.14
 	},
 	{
@@ -23053,6 +24100,7 @@
 		"hand_id" : 27296560355,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5523.80
 	},
 	{
@@ -23075,6 +24123,7 @@
 		"hand_id" : 27302150018,
 		"noOfUser" : 2,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 1502.75
 	},
 	{
@@ -23097,6 +24146,7 @@
 		"hand_id" : 27300280043,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : -388.24,
+		"EVCHOP_FEE" : 11.65,
 		"remaining_pot_after_rake" : 946.15
 	},
 	{
@@ -23119,6 +24169,7 @@
 		"hand_id" : 27301470019,
 		"noOfUser" : 5,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 562.12
 	},
 	{
@@ -23141,6 +24192,7 @@
 		"hand_id" : 27286350614,
 		"noOfUser" : 3,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4801.50
 	},
 	{
@@ -23163,6 +24215,7 @@
 		"hand_id" : 27268901313,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : 1952.97,
+		"EVCHOP_FEE" : 23.80,
 		"remaining_pot_after_rake" : 4699.37
 	},
 	{
@@ -23185,6 +24238,7 @@
 		"hand_id" : 27300020112,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 5203.52
 	},
 	{
@@ -23207,6 +24261,7 @@
 		"hand_id" : 27302740020,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 4318.90
 	},
 	{
@@ -23229,6 +24284,7 @@
 		"hand_id" : 27301470090,
 		"noOfUser" : 6,
 		"EVCHOP_PROFIT_LOSS" : 0.00,
+		"EVCHOP_FEE" : 0.00,
 		"remaining_pot_after_rake" : 738.59
 	},
 	{
@@ -23251,6 +24307,7 @@
 		"hand_id" : 8810050049,
 		"noOfUser" : 4,
 		"EVCHOP_PROFIT_LOSS" : -8.13,
+		"EVCHOP_FEE" : 0.24,
 		"remaining_pot_after_rake" : 30.61
 	}
 ]
