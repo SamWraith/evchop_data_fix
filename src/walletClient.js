@@ -106,19 +106,19 @@ async function makeEvChopCreditPayload(item) {
 
 async function main() {
     // await makeGrpcCallForCheckBalance();
-    const data = await fsp.readFile(__dirname + "/json/evchop_nonSplash_till_24-05-2025-6-00-00.json", "utf8");
+    const data = await fsp.readFile(__dirname + "/json/test 2.json", "utf8");
     const payload = JSON.parse(data);
     let sum = 0;
 
     for (const item of payload) {
         console.log('Processing item:', item);
-        // sum = sum + item.EVCHOP_FEE + item.remaining_pot_after_rake;
+        sum = sum + item.EVCHOP_FEE + item.remaining_pot_after_rake;
         const evChopCreditPayload = await makeEvChopCreditPayload(item);
-        await makeGrpcCallForEvChopCredit(evChopCreditPayload);
-        console.log('Processed transactionId:', item.TRANSACTION_ID);
+        // await makeGrpcCallForEvChopCredit(evChopCreditPayload);
+        // console.log('Processed transactionId:', item.TRANSACTION_ID);
     }
     console.log('All items processed. Total count:', payload.length);
-    // console.log(`Total credit amount: ${sum}`);
+    console.log(`Total credit amount: ${sum}`);
 }
 
 main(); // Call main when you are ready to connect
