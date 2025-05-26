@@ -65,7 +65,7 @@ async function makeEvChopCreditPayload(item) {
             "splashDropAmount": Number(item['splash_drop_amount'])
         },
         "evChopCreditAmount": {
-            "evChopFees": Number(item['evChopFees']),
+            "evChopFees": Number(item['evchopFees']),
             "remainingPotAfterRake": Number(item['remaining_pot_after_rake']),
             "remainingSplashDropAmount": Number(item['remainingSplashDropAmount'])
         },
@@ -75,7 +75,7 @@ async function makeEvChopCreditPayload(item) {
 
 async function main() {
     // await makeGrpcCallForCheckBalance();
-    const data = await fsp.readFile(__dirname + "/csv/splash_credit_data(Sheet1).csv", "utf8");
+    const data = await fsp.readFile(__dirname + "/csv/splash_credit_data(Sheet2).csv", "utf8");
     const csvRows = data.split('\n').filter(row => row.trim().length > 0);
     const headers = csvRows[0].split(',').map(h => h.trim());
     const payload = csvRows.slice(1).map(row => {
@@ -92,7 +92,7 @@ async function main() {
     for (const item of payload) {
         console.log('Processing item:', item);
         
-        sum = sum + Number(item['evChopFees']) + Number(item['remaining_pot_after_rake']) + Number(item['remainingSplashDropAmount']);
+        sum = sum + Number(item['evchopFees']) + Number(item['remaining_pot_after_rake']) + Number(item['remainingSplashDropAmount']);
         const evChopCreditPayload = await makeEvChopCreditPayload(item);
         await makeGrpcCallForEvChopCredit(evChopCreditPayload);
         console.log('Processed transactionId:', item['HAND_ID'] + item['TABLE_ID']);
