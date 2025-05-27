@@ -22,7 +22,7 @@ const useTransportSecurity = process.env.USE_TRANSPORT_SECURITY === 'true';
 
 let credentials;
 if (useTransportSecurity) {
-    credentials = grpc.credentials.createSsl();
+    credentials = grpc.credentials.createSsl()
 } else {
     credentials = grpc.credentials.createInsecure();
 }
@@ -31,37 +31,6 @@ const walletClient = new wallet_proto.WalletService(walletUrl, credentials);
 const evChopClient = new wallet_proto.WalletEvChop(walletUrl, credentials);
 
 console.log(`Wallet client connected to ${walletUrl} (Transport Security: ${useTransportSecurity})`);
-
-
-async function makeGrpcCallForCheckBalance() {
-    const payload = await makeCheckBalancePayload();
-    console.log('Payload for checkBalance:', payload);
-    return new Promise((resolve, reject) => {
-        walletClient.checkBalance(payload, (error, response) => {
-            if (error) {
-                console.error('Error in checkBalance:', error);
-                return reject(error);
-            }
-            console.log('Balance response:', response);
-            resolve(response);
-        });
-    });
-}
-
-async function makeCheckBalancePayload() {
-    return {
-        "userID": 10697,
-        "partnerID": 10001,
-        "coinType": [
-            "CASH"
-        ],
-        "isPrivate": false,
-        "clientMetaData": {
-            "buildVersion": "Sample",
-            "clientSource": "TEST"
-        }
-    }
-}
 
 async function makeGrpcCallForEvChopCredit(evChopCreditPayload) {
     console.log('Payload for evChopCredit:', evChopCreditPayload);
@@ -79,48 +48,46 @@ async function makeGrpcCallForEvChopCredit(evChopCreditPayload) {
 
 async function makeEvChopCreditPayload(item) {
     return {
-        "handID": item.HAND_ID,
+        "handID": item['HAND_ID'],
         "status": "EVCHOP_CREDIT_SUCCESS",
         "revenue": 0,
-        "tableID": item.TABLE_ID,
-        "bigBlind": item.BIG_BLIND,
-        "noOfUser": item.noOfUser,
+        "tableID": item['TABLE_ID'],
+        "bigBlind": item['BIG_BLIND'],
+        "noOfUser": 0,
         "debitAmount": 0,
         "creditAmount": 0,
-        "miniGameType": item.GAME_TYPE,
-        "transactionID": item.TRANSACTION_ID,
-        "tournamentType": item.TOURNAMENT_TYPE,
+        "miniGameType": item['GAME_TYPE'],
+        "transactionID": item['TRANSACTION_ID'],
+        "tournamentType": item['TOURNAMENT_TYPE'],
         "transactionType": "EVCHOP_CREDIT",
         "evChopDebitAmount": {
-            "potAfterRake": item.TRANSACTION_AMOUNT,
-            "splashDropAmount": 0
+            "potAfterRake": Number(item['potAfterRake']),
+            "splashDropAmount": Number(item['splashDropAmount'])
         },
         "evChopCreditAmount": {
-            "evChopFees": item.EVCHOP_FEE,
-            "remainingPotAfterRake": item.remaining_pot_after_rake,
-            "remainingSplashDropAmount": 0
+            "evChopFees": 0,
+            "remainingPotAfterRake": Number(item['potAfterRake']),
+            "remainingSplashDropAmount": Number(item['splashDropAmount'])
         },
         "evChopCreditMetaData": "{\"message\":\"EvChop credit trxn fix\"}"
     }
 }
 
 async function main() {
-    // await makeGrpcCallForCheckBalance();
-    const data = await fsp.readFile(__dirname + "/json/evchop_non_splash_till_2025-05-26-6-00-00.csv.json", "utf8");
+    const data = await fsp.readFile(__dirname + "/json/evChop_table_stuck_till_2025-05-25.json", "utf8");
     const payload = JSON.parse(data);
     let sum = 0;
 
     for (const item of payload) {
         console.log('Processing item:', item);
-        sum = sum + item.EVCHOP_FEE + item.remaining_pot_after_rake;
+        sum = sum + Number(item.potAfterRake) + Number(item.splashDropAmount);
         const evChopCreditPayload = await makeEvChopCreditPayload(item);
-        await makeGrpcCallForEvChopCredit(evChopCreditPayload);
+        console.log(evChopCreditPayload);
+        // await makeGrpcCallForEvChopCredit(evChopCreditPayload);
         console.log('Processed transactionId:', item.TRANSACTION_ID);
     }
     console.log('All items processed. Total count:', payload.length);
     console.log(`Total credit amount: ${sum}`);
 }
 
-main(); // Call main when you are ready to connect
-
-module.exports = { walletClient, wallet_proto }; // Export client and proto if needed elsewhere
+main();
