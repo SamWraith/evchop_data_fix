@@ -74,7 +74,7 @@ async function makeEvChopCreditPayload(item) {
 }
 
 async function main() {
-    const data = await fsp.readFile(__dirname + "/json/evChop_table_stuck_till_2025-05-25.json", "utf8");
+    const data = await fsp.readFile(__dirname + "/json/evchop_table_stuck_till 2025-05-27.csv.json", "utf8");
     const payload = JSON.parse(data);
     let sum = 0;
 

@@ -1,0 +1,22 @@
+[
+	{
+		"EVCHOP_ID" : 185041,
+		"GAME_TYPE" : "TEXAS_HOLDEM",
+		"TOURNAMENT_TYPE" : "RING",
+		"BIG_BLIND" : 10.00,
+		"HAND_ID" : 27406041053,
+		"TABLE_ID" : 2740604,
+		"NO_OF_USERS" : 2,
+		"TRANSACTION_AMOUNT" : 269.51,
+		"TRANSACTION_ID" : "274060410532740604",
+		"TRANSACTION_TYPE_ID" : 176,
+		"TRANSACTION_STATUS_ID" : 294,
+		"IS_PROCESSED" : 1,
+		"PAYLOAD" : "{\"handID\": \"27406041053\", \"status\": \"EVCHOP_DEBIT_SUCCESS\", \"tableID\": \"2740604\", \"bigBlind\": 10, \"noOfUser\": \"2\", \"miniGameType\": \"TEXAS_HOLDEM\", \"transactionID\": \"274060410532740604\", \"tournamentType\": \"RING\", \"transactionType\": \"EVCHOP_DEBIT\", \"evChopDebitAmount\": {\"potAfterRake\": 269.51, \"splashDropAmount\": 0}, \"transactionAmount\": 0, \"evChopDebitMetaData\": \"{\\\"totalPotAmount\\\":300.68,\\\"rake\\\":21.17,\\\"totalPotAfterRake\\\":269.51,\\\"splashDropAmount\\\":0,\\\"potDetails\\\":[{\\\"potId\\\":0,\\\"potAmount\\\":0.56,\\\"playerDetails\\\":[{\\\"playerId\\\":368609,\\\"winChance\\\":50.1},{\\\"playerId\\\":2049181,\\\"winChance\\\":23.66},{\\\"playerId\\\":5831179,\\\"winChance\\\":26.25}]},{\\\"potId\\\":1,\\\"potAmount\\\":300.12,\\\"playerDetails\\\":[{\\\"playerId\\\":368609,\\\"winChance\\\":70.8},{\\\"playerId\\\":5831179,\\\"winChance\\\":29.2}]}]}\"}",
+		"META_DATA" : "{\"rake\": 21.17, \"potDetails\": [{\"potId\": 0, \"potAmount\": 0.56, \"playerDetails\": [{\"playerId\": 368609, \"winChance\": 50.1}, {\"playerId\": 2049181, \"winChance\": 23.66}, {\"playerId\": 5831179, \"winChance\": 26.25}]}, {\"potId\": 1, \"potAmount\": 300.12, \"playerDetails\": [{\"playerId\": 368609, \"winChance\": 70.8}, {\"playerId\": 5831179, \"winChance\": 29.2}]}], \"totalPotAmount\": 300.68, \"splashDropAmount\": 0, \"totalPotAfterRake\": 269.51}",
+		"CREATED_DATE" : "2025-05-26 22:45:28",
+		"LAST_UPDATED_DATE" : "2025-05-26 22:45:28",
+		"potAfterRake" : "269.51",
+		"splashDropAmount" : "0"
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"EVCHOP_ID" : 183973,
+		"GAME_TYPE" : "TEXAS_HOLDEM",
+		"TOURNAMENT_TYPE" : "RING",
+		"BIG_BLIND" : 10.00,
+		"HAND_ID" : 27432180093,
+		"TABLE_ID" : 2743218,
+		"NO_OF_USERS" : 3,
+		"TRANSACTION_AMOUNT" : 283.67,
+		"TRANSACTION_ID" : "274321800932743218",
+		"TRANSACTION_TYPE_ID" : 176,
+		"TRANSACTION_STATUS_ID" : 294,
+		"IS_PROCESSED" : 1,
+		"PAYLOAD" : "{\"handID\": \"27432180093\", \"status\": \"EVCHOP_DEBIT_SUCCESS\", \"tableID\": \"2743218\", \"bigBlind\": 10, \"noOfUser\": \"3\", \"miniGameType\": \"TEXAS_HOLDEM\", \"transactionID\": \"274321800932743218\", \"tournamentType\": \"RING\", \"transactionType\": \"EVCHOP_DEBIT\", \"evChopDebitAmount\": {\"potAfterRake\": 283.67, \"splashDropAmount\": 0}, \"transactionAmount\": 0, \"evChopDebitMetaData\": \"{\\\"totalPotAmount\\\":315.92,\\\"rake\\\":22.25,\\\"totalPotAfterRake\\\":283.67,\\\"splashDropAmount\\\":0,\\\"potDetails\\\":[{\\\"potId\\\":0,\\\"potAmount\\\":10.80,\\\"playerDetails\\\":[{\\\"playerId\\\":5774161,\\\"winChance\\\":5.78},{\\\"playerId\\\":1044335,\\\"winChance\\\":49.68},{\\\"playerId\\\":4585226,\\\"winChance\\\":44.54}]},{\\\"potId\\\":1,\\\"potAmount\\\":305.12,\\\"playerDetails\\\":[{\\\"playerId\\\":1044335,\\\"winChance\\\":51.84},{\\\"playerId\\\":4585226,\\\"winChance\\\":48.16}]}]}\"}",
+		"META_DATA" : "{\"rake\": 22.25, \"potDetails\": [{\"potId\": 0, \"potAmount\": 10.8, \"playerDetails\": [{\"playerId\": 5774161, \"winChance\": 5.78}, {\"playerId\": 1044335, \"winChance\": 49.68}, {\"playerId\": 4585226, \"winChance\": 44.54}]}, {\"potId\": 1, \"potAmount\": 305.12, \"playerDetails\": [{\"playerId\": 1044335, \"winChance\": 51.84}, {\"playerId\": 4585226, \"winChance\": 48.16}]}], \"totalPotAmount\": 315.92, \"splashDropAmount\": 0, \"totalPotAfterRake\": 283.67}",
+		"CREATED_DATE" : "2025-05-26 22:20:46",
+		"LAST_UPDATED_DATE" : "2025-05-26 22:20:46",
+		"hand_id" : 27432180093,
+		"noOfUser" : 6,
+		"EVCHOP_PROFIT_LOSS" : -136.62,
+		"EVCHOP_FEE" : 0.00,
+		"remaining_pot_after_rake" : 147.05
+	}
+]

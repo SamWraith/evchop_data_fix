@@ -7,7 +7,7 @@ package wallet;
 
 option java_multiple_files = true;
 option java_outer_classname = "PokerWalletService";
-option java_package = "com.baazigames.grpc";
+option java_package = "com.baazigames.poker.wallet.grpc";
 
 
 /**
@@ -72,6 +72,7 @@ enum CreditTransactionType{
   TICKET_REFUND = 15;
   AIC_USER_REFUND = 16;
   BUBBLE_PROTECTION_REFUND = 17;
+  SPLASH_SHAREABLE_CREDIT_FOR_PARTNER = 18;
 }
 
 enum NgeTournamentType {
@@ -94,6 +95,7 @@ enum NgeTournamentType {
   MTT_FREEZEOUT_WIN_THE_BUTTON = 16;
   MTT_REBUY_WIN_THE_BUTTON = 17;
   MTT_MYSTERY_BOUNTY = 18;
+  PSL_FREEZEOUT = 19;
 }
 
 
@@ -608,6 +610,8 @@ service WalletSplashThePot{
      */
 
     rpc splashShareableCredit(SplashBatchShareableCreditPayload) returns (SplashBatchShareableCreditResponse);
+
+    rpc splashShareableCreditReconciliation(SplashBatchShareableCreditPayload) returns (SplashBatchShareableCreditResponse);
 
 }
 
