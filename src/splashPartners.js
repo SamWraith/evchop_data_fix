@@ -54,7 +54,7 @@ async function main() {
     for (const item of payload) {
         console.log('Processing item:', item);
         sum = sum + Number(item.amount);
-        const payload = JSON.parse(item.payload);
+        const payload = (item.payload);
         console.log(payload);
         await makeGrpcCallForSplashPartnerReconciliation(payload);
         console.log('Processed transactionId:', item.transaction_id);

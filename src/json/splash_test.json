@@ -1,30 +1,11 @@
 [
     {
-        "SPLASH_SHAREABLE_ID": 58478,
-        "hand_id": 4144000016,
-        "table_id": 414400,
-        "transaction_id": "17490352133824144000016",
-        "internal_reference_no": "45436851749035178435508",
-        "payload": "{\"handId\": \"4144000016\", \"tableId\": \"414400\", \"gameType\": \"RING\", \"miniGameType\": \"TEXAS_HOLDEM\", \"transactionId\": \"17490352133824144000016\", \"splashTransactionType\": \"SPLASH_SHAREABLE_CREDIT\", \"splashShareableCreditPayload\": [{\"amount\": 35, \"userId\": \"4543788\", \"coinType\": \"CASH\", \"partnerId\": \"10832\", \"balanceType\": \"PROMO\", \"internalReferenceNumber\": \"45437881749035170988183\"}, {\"amount\": 35, \"userId\": \"4543685\", \"coinType\": \"CASH\", \"partnerId\": \"10832\", \"balanceType\": \"PROMO\", \"internalReferenceNumber\": \"45436851749035178435508\"}]}",
-        "IS_PROCESSED": 1,
-        "CREATED_DATE": "2025-06-04 16:36:53",
-        "idx": 1,
-        "User_id": "4543685",
-        "amount": "35",
-        "partnerId": "10832"
-    },
-    {
-        "SPLASH_SHAREABLE_ID": 58483,
-        "hand_id": 4144000019,
-        "table_id": 414400,
-        "transaction_id": "17491227985974144000019",
-        "internal_reference_no": "45441981749122757136436",
-        "payload": "{\"handId\": \"4144000019\", \"tableId\": \"414400\", \"gameType\": \"RING\", \"miniGameType\": \"TEXAS_HOLDEM\", \"transactionId\": \"17491227985974144000019\", \"splashTransactionType\": \"SPLASH_SHAREABLE_CREDIT\", \"splashShareableCreditPayload\": [{\"amount\": 35, \"userId\": \"4544198\", \"coinType\": \"CASH\", \"partnerId\": \"10825\", \"balanceType\": \"PROMO\", \"internalReferenceNumber\": \"45441981749122757136436\"}, {\"amount\": 35, \"userId\": \"4543514\", \"coinType\": \"CASH\", \"partnerId\": \"10001\", \"balanceType\": \"PROMO\", \"internalReferenceNumber\": \"4543514174912276150955\"}]}",
-        "IS_PROCESSED": 1,
-        "CREATED_DATE": "2025-06-05 16:56:38",
-        "idx": 0,
-        "User_id": "4544198",
-        "amount": "35",
-        "partnerId": "10825"
-    }
+		"transaction_id" : "174919796598127937530071",
+		"hand_id" : 27937530071,
+		"table_id" : 2793753,
+		"payload" : {"handId": "27937530071", "tableId": "2793753", "gameType": "RING", "miniGameType": "FIVE_CARDS_OMAHA", "transactionId": "174919796598127937530071", "splashTransactionType": "SPLASH_SHAREABLE_CREDIT", "splashShareableCreditPayload": [{"amount": 375, "userId": "3406065", "coinType": "CASH", "partnerId": "10854", "balanceType": "PROMO", "internalReferenceNumber": "34060651749195578044348"}, {"amount": 375, "userId": "2367369", "coinType": "CASH", "partnerId": "10001", "balanceType": "PROMO", "internalReferenceNumber": "23673691749197232864410"}]},
+		"IS_PROCESSED" : 1,
+		"CREATED_DATE" : "2025-06-06 13:49:25",
+		"sample_user_id" : 2367369
+	}
 ]
